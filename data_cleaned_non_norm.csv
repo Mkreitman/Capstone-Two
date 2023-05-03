@@ -1,0 +1,1188 @@
+,Institution_ID,institution_name,city,state_or_territory_abbreviation,predominant_degree_awarded,territory_or_state_area_sqmi,territory_or_state_population,admission_rate,act_25th_percentile_score,graduation_rate,graduation_frequency
+0,100654,Alabama A & M University,Normal,AL,Bachelor's Degree,52420,4903185,0.6538,16.0,0.0556,756.0
+1,100663,University of Alabama at Birmingham,Birmingham,AL,Bachelor's Degree,52420,4903185,0.6043,22.0,0.3469,1652.0
+3,100706,University of Alabama in Huntsville,Huntsville,AL,Bachelor's Degree,52420,4903185,0.812,24.0,0.2195,615.0
+4,100724,Alabama State University,Montgomery,AL,Bachelor's Degree,52420,4903185,0.4639,16.0,0.0975,1436.0
+5,100751,The University of Alabama,Tuscaloosa,AL,Bachelor's Degree,52420,4903185,0.5359,22.0,0.5049,6302.0
+8,100830,Auburn University at Montgomery,Montgomery,AL,Bachelor's Degree,52420,4903185,0.7871,19.0,0.1196,577.0
+9,100858,Auburn University,Auburn,AL,Bachelor's Degree,52420,4903185,0.7766,24.0,0.4991,3835.0
+10,100937,Birmingham-Southern College,Birmingham,AL,Bachelor's Degree,52420,4903185,0.5306,23.0,0.6338,325.0
+15,101189,Faulkner University,Montgomery,AL,Bachelor's Degree,52420,4903185,0.573,18.0,0.1147,340.0
+22,101435,Huntingdon College,Montgomery,AL,Bachelor's Degree,52420,4903185,0.5769,19.0,0.32,275.0
+23,101453,Heritage Christian University,Florence,AL,Bachelor's Degree,52420,4903185,0.7,14.0,0.5,2.0
+26,101480,Jacksonville State University,Jacksonville,AL,Bachelor's Degree,52420,4903185,0.6665,20.0,0.1813,1302.0
+29,101541,Judson College,Marion,AL,Bachelor's Degree,52420,4903185,0.6292,19.0,0.2769,65.0
+31,101587,University of West Alabama,Livingston,AL,Bachelor's Degree,52420,4903185,0.7347,18.0,0.1917,360.0
+35,101693,University of Mobile,Mobile,AL,Bachelor's Degree,52420,4903185,0.6051,19.0,0.354,226.0
+36,101709,University of Montevallo,Montevallo,AL,Bachelor's Degree,52420,4903185,0.7001,20.0,0.2876,539.0
+38,101879,University of North Alabama,Florence,AL,Bachelor's Degree,52420,4903185,0.58,19.0,0.2067,1050.0
+40,101912,Oakwood University,Huntsville,AL,Bachelor's Degree,52420,4903185,0.4749,17.0,0.2108,408.0
+43,102049,Samford University,Birmingham,AL,Bachelor's Degree,52420,4903185,0.933,23.0,0.6404,698.0
+47,102094,University of South Alabama,Mobile,AL,Bachelor's Degree,52420,4903185,0.7816,20.0,0.2163,1886.0
+48,102234,Spring Hill College,Mobile,AL,Bachelor's Degree,52420,4903185,0.4132,22.0,0.5017,295.0
+49,102270,Stillman College,Tuscaloosa,AL,Bachelor's Degree,52420,4903185,0.5659,14.0,0.1717,233.0
+52,102368,Troy University,Troy,AL,Bachelor's Degree,52420,4903185,0.9187,19.0,0.2104,1369.0
+53,102377,Tuskegee University,Tuskegee,AL,Bachelor's Degree,52420,4903185,0.5296,18.0,0.3415,653.0
+58,102614,University of Alaska Fairbanks,Fairbanks,AK,Bachelor's Degree,665384,731545,0.731,18.0,0.2041,441.0
+60,102669,Alaska Pacific University,Anchorage,AK,Bachelor's Degree,665384,731545,0.3891,17.0,0.4074,27.0
+72,104151,Arizona State University Campus Immersion,Tempe,AZ,Bachelor's Degree,113990,7278717,0.8291,23.0,0.5191,6322.0
+101,105589,Prescott College,Prescott,AZ,Bachelor's Degree,113990,7278717,0.7043,19.0,0.2656,64.0
+107,105899,Arizona Christian University,Glendale,AZ,Bachelor's Degree,113990,7278717,0.5123,19.0,0.4512,82.0
+111,106245,University of Arkansas at Little Rock,Little Rock,AR,Bachelor's Degree,53179,3017804,0.8983,18.0,0.195,805.0
+116,106342,Lyon College,Batesville,AR,Bachelor's Degree,53179,3017804,0.5912,22.0,0.4528,159.0
+119,106397,University of Arkansas,Fayetteville,AR,Bachelor's Degree,53179,3017804,0.6006,23.0,0.4707,4546.0
+120,106412,University of Arkansas at Pine Bluff,Pine Bluff,AR,Bachelor's Degree,53179,3017804,0.4616,16.0,0.1139,562.0
+122,106458,Arkansas State University,Jonesboro,AR,Bachelor's Degree,53179,3017804,0.7024,21.0,0.3098,1630.0
+128,106704,University of Central Arkansas,Conway,AR,Bachelor's Degree,53179,3017804,0.9218,20.0,0.2268,2130.0
+129,106713,Central Baptist College,Conway,AR,Bachelor's Degree,53179,3017804,0.4749,18.0,0.0192,52.0
+138,107044,Harding University,Searcy,AR,Bachelor's Degree,53179,3017804,0.992,22.0,0.459,1024.0
+139,107071,Henderson State University,Arkadelphia,AR,Bachelor's Degree,53179,3017804,0.6334,18.0,0.2127,771.0
+140,107080,Hendrix College,Conway,AR,Bachelor's Degree,53179,3017804,0.8238,25.0,0.6612,369.0
+143,107141,John Brown University,Siloam Springs,AR,Bachelor's Degree,53179,3017804,0.7376,24.0,0.5629,318.0
+151,107512,Ouachita Baptist University,Arkadelphia,AR,Bachelor's Degree,53179,3017804,0.6845,21.0,0.5978,363.0
+154,107558,University of the Ozarks,Clarksville,AR,Bachelor's Degree,53179,3017804,0.9677,20.0,0.3631,157.0
+166,107877,Williams Baptist University,Walnut Ridge,AR,Bachelor's Degree,53179,3017804,0.6375,19.0,0.3284,134.0
+168,107983,Southern Arkansas University Main Campus,Magnolia,AR,Bachelor's Degree,53179,3017804,0.6748,18.0,0.2574,540.0
+189,109785,Azusa Pacific University,Azusa,CA,Bachelor's Degree,163695,39512223,0.809,21.0,0.4531,1247.0
+194,110097,Biola University,La Mirada,CA,Bachelor's Degree,163695,39512223,0.6985,21.0,0.5536,914.0
+200,110361,California Baptist University,Riverside,CA,Bachelor's Degree,163695,39512223,0.6541,17.0,0.3619,876.0
+203,110404,California Institute of Technology,Pasadena,CA,Bachelor's Degree,163695,39512223,0.0881,34.0,0.8061,263.0
+204,110413,California Lutheran University,Thousand Oaks,CA,Bachelor's Degree,163695,39512223,0.6156,22.0,0.6918,558.0
+205,110422,California Polytechnic State University-San Luis Obispo,San Luis Obispo,CA,Bachelor's Degree,163695,39512223,0.3129,26.0,0.4799,3686.0
+209,110510,California State University-San Bernardino,San Bernardino,CA,Bachelor's Degree,163695,39512223,0.6459,16.0,0.1246,2391.0
+210,110529,California State Polytechnic University-Pomona,Pomona,CA,Bachelor's Degree,163695,39512223,0.3931,20.0,0.2128,3022.0
+211,110538,California State University-Chico,Chico,CA,Bachelor's Degree,163695,39512223,0.6345,19.0,0.2772,2659.0
+213,110556,California State University-Fresno,Fresno,CA,Bachelor's Degree,163695,39512223,0.5219,16.0,0.1551,3036.0
+214,110565,California State University-Fullerton,Fullerton,CA,Bachelor's Degree,163695,39512223,0.4186,19.0,0.2195,4419.0
+216,110583,California State University-Long Beach,Long Beach,CA,Bachelor's Degree,163695,39512223,0.3382,20.0,0.1674,4146.0
+217,110592,California State University-Los Angeles,Los Angeles,CA,Bachelor's Degree,163695,39512223,0.6813,15.0,0.089,2765.0
+218,110608,California State University-Northridge,Northridge,CA,Bachelor's Degree,163695,39512223,0.456,16.0,0.1441,4088.0
+219,110617,California State University-Sacramento,Sacramento,CA,Bachelor's Degree,163695,39512223,0.6725,17.0,0.0903,2990.0
+220,110635,University of California-Berkeley,Berkeley,CA,Bachelor's Degree,163695,39512223,0.1688,30.0,0.7449,4127.0
+221,110644,University of California-Davis,Davis,CA,Bachelor's Degree,163695,39512223,0.3795,25.0,0.6085,5167.0
+222,110653,University of California-Irvine,Irvine,CA,Bachelor's Degree,163695,39512223,0.3868,24.0,0.6761,5063.0
+223,110662,University of California-Los Angeles,Los Angeles,CA,Bachelor's Degree,163695,39512223,0.1728,28.0,0.7686,5606.0
+224,110671,University of California-Riverside,Riverside,CA,Bachelor's Degree,163695,39512223,0.556,23.0,0.5482,3997.0
+225,110680,University of California-San Diego,La Jolla,CA,Bachelor's Degree,163695,39512223,0.3374,28.0,0.616,4573.0
+227,110705,University of California-Santa Barbara,Santa Barbara,CA,Bachelor's Degree,163695,39512223,0.3264,26.0,0.6811,4722.0
+228,110714,University of California-Santa Cruz,Santa Cruz,CA,Bachelor's Degree,163695,39512223,0.5029,25.0,0.4912,3815.0
+250,111948,Chapman University,Orange,CA,Bachelor's Degree,163695,39512223,0.4758,25.0,0.7028,1272.0
+252,112075,Concordia University-Irvine,Irvine,CA,Bachelor's Degree,163695,39512223,0.5917,20.0,0.58,300.0
+253,112084,San Diego Christian College,Santee,CA,Bachelor's Degree,163695,39512223,0.5173,17.0,0.3778,90.0
+259,112260,Claremont McKenna College,Claremont,CA,Bachelor's Degree,163695,39512223,0.1096,29.0,0.8454,291.0
+281,113698,Dominican University of California,San Rafael,CA,Bachelor's Degree,163695,39512223,0.7883,21.0,0.5698,265.0
+301,114813,Fresno Pacific University,Fresno,CA,Bachelor's Degree,163695,39512223,0.6313,19.0,0.5234,235.0
+314,115409,Harvey Mudd College,Claremont,CA,Bachelor's Degree,163695,39512223,0.1296,32.0,0.8535,198.0
+316,115728,Holy Names University,Oakland,CA,Bachelor's Degree,163695,39512223,0.43,15.0,0.3435,131.0
+318,115755,California State Polytechnic University-Humboldt,Arcata,CA,Bachelor's Degree,163695,39512223,0.77,18.0,0.1618,1199.0
+329,117104,Life Pacific University,San Dimas,CA,Bachelor's Degree,163695,39512223,0.6384,16.0,0.2667,45.0
+330,117140,University of La Verne,La Verne,CA,Bachelor's Degree,163695,39512223,0.4718,20.0,0.5408,612.0
+339,117627,La Sierra University,Riverside,CA,Bachelor's Degree,163695,39512223,0.4462,16.0,0.3955,311.0
+348,117751,The Master's University and Seminary,Santa Clarita,CA,Bachelor's Degree,163695,39512223,0.9469,21.0,0.4808,208.0
+353,117946,Loyola Marymount University,Los Angeles,CA,Bachelor's Degree,163695,39512223,0.5078,25.0,0.7565,1273.0
+363,118693,Menlo College,Atherton,CA,Bachelor's Degree,163695,39512223,0.3808,19.0,0.4324,148.0
+366,118888,Mills College,Oakland,CA,Bachelor's Degree,163695,39512223,0.7156,24.0,0.5829,187.0
+376,119173,Mount Saint Mary's University,Los Angeles,CA,Bachelor's Degree,163695,39512223,0.7653,16.0,0.4437,284.0
+389,120184,Notre Dame de Namur University,Belmont,CA,Bachelor's Degree,163695,39512223,0.8667,16.0,0.4,180.0
+390,120254,Occidental College,Los Angeles,CA,Bachelor's Degree,163695,39512223,0.4487,28.0,0.8094,530.0
+393,120403,Otis College of Art and Design,Los Angeles,CA,Bachelor's Degree,163695,39512223,0.9036,19.0,0.541,183.0
+395,120537,Hope International University,Fullerton,CA,Bachelor's Degree,163695,39512223,0.3425,16.0,0.3009,113.0
+401,120865,Pacific Union College,Angwin,CA,Bachelor's Degree,163695,39512223,0.4522,18.0,0.3545,189.0
+402,120883,University of the Pacific,Stockton,CA,Bachelor's Degree,163695,39512223,0.6456,22.0,0.5045,662.0
+406,121150,Pepperdine University,Malibu,CA,Bachelor's Degree,163695,39512223,0.381,25.0,0.7294,787.0
+409,121309,Point Loma Nazarene University,San Diego,CA,Bachelor's Degree,163695,39512223,0.7134,23.0,0.705,600.0
+410,121345,Pomona College,Claremont,CA,Bachelor's Degree,163695,39512223,0.103,30.0,0.8897,399.0
+416,121691,University of Redlands,Redlands,CA,Bachelor's Degree,163695,39512223,0.6752,22.0,0.6755,721.0
+430,122409,San Diego State University,San Diego,CA,Bachelor's Degree,163695,39512223,0.3441,22.0,0.3646,3829.0
+431,122436,University of San Diego,San Diego,CA,Bachelor's Degree,163695,39512223,0.5168,26.0,0.6819,1072.0
+434,122597,San Francisco State University,San Francisco,CA,Bachelor's Degree,163695,39512223,0.6788,18.0,0.2157,3756.0
+436,122612,University of San Francisco,San Francisco,CA,Bachelor's Degree,163695,39512223,0.6436,24.0,0.6573,1351.0
+440,122728,William Jessup University,Rocklin,CA,Bachelor's Degree,163695,39512223,0.7605,18.0,0.4815,135.0
+442,122755,San Jose State University,San Jose,CA,Bachelor's Degree,163695,39512223,0.5522,20.0,0.1427,3300.0
+447,122931,Santa Clara University,Santa Clara,CA,Bachelor's Degree,163695,39512223,0.488,27.0,0.8401,1276.0
+451,123165,Scripps College,Claremont,CA,Bachelor's Degree,163695,39512223,0.279,29.0,0.8128,235.0
+458,123457,Simpson University,Redding,CA,Bachelor's Degree,163695,39512223,0.5152,18.0,0.4966,147.0
+463,123554,Saint Mary's College of California,Moraga,CA,Bachelor's Degree,163695,39512223,0.7526,22.0,0.6769,585.0
+465,123572,Sonoma State University,Rohnert Park,CA,Bachelor's Degree,163695,39512223,0.7655,19.0,0.299,1729.0
+468,123651,Vanguard University of Southern California,Costa Mesa,CA,Bachelor's Degree,163695,39512223,0.6826,18.0,0.5885,435.0
+474,123952,Southern California Institute of Architecture,Los Angeles,CA,Bachelor's Degree,163695,39512223,0.7336,24.0,0.0,32.0
+475,123961,University of Southern California,Los Angeles,CA,Bachelor's Degree,163695,39512223,0.1768,30.0,0.783,2996.0
+479,124292,Thomas Aquinas College,Santa Paula,CA,Bachelor's Degree,163695,39512223,0.7513,28.0,0.7143,84.0
+494,125727,Westmont College,Santa Barbara,CA,Bachelor's Degree,163695,39512223,0.8122,23.0,0.7062,337.0
+495,125763,Whittier College,Whittier,CA,Bachelor's Degree,163695,39512223,0.6262,20.0,0.601,406.0
+496,125897,Woodbury University,Burbank,CA,Bachelor's Degree,163695,39512223,0.576,16.0,0.3107,177.0
+506,126562,University of Colorado Denver/Anschutz Medical Campus,Denver,CO,Bachelor's Degree,104094,5758736,0.6742,20.0,0.2179,959.0
+507,126580,University of Colorado Colorado Springs,Colorado Springs,CO,Bachelor's Degree,104094,5758736,0.9206,21.0,0.2421,1330.0
+509,126614,University of Colorado Boulder,Boulder,CO,Bachelor's Degree,104094,5758736,0.7962,24.0,0.4745,5416.0
+515,126775,Colorado School of Mines,Golden,CO,Bachelor's Degree,104094,5758736,0.3767,28.0,0.5911,949.0
+517,126818,Colorado State University-Fort Collins,Fort Collins,CO,Bachelor's Degree,104094,5758736,0.8082,22.0,0.4537,4395.0
+525,127060,University of Denver,Denver,CO,Bachelor's Degree,104094,5758736,0.7275,26.0,0.6725,1203.0
+527,127185,Fort Lewis College,Durango,CO,Bachelor's Degree,104094,5758736,0.8596,19.0,0.2569,837.0
+532,127556,Colorado Mesa University,Grand Junction,CO,Bachelor's Degree,104094,5758736,0.8306,17.0,0.1826,1210.0
+533,127565,Metropolitan State University of Denver,Denver,CO,Bachelor's Degree,104094,5758736,0.6522,18.0,0.0811,1616.0
+538,127741,University of Northern Colorado,Greeley,CO,Bachelor's Degree,104094,5758736,0.8935,19.0,0.2802,2188.0
+544,127918,Regis University,Denver,CO,Bachelor's Degree,104094,5758736,0.657,21.0,0.5165,486.0
+547,128106,Colorado State University Pueblo,Pueblo,CO,Bachelor's Degree,104094,5758736,0.9589,18.0,0.1794,864.0
+552,128328,United States Air Force Academy,USAF Academy,CO,Bachelor's Degree,104094,5758736,0.1709,29.0,0.8308,934.0
+554,128391,Western Colorado University,Gunnison,CO,Bachelor's Degree,104094,5758736,0.9761,19.0,0.2422,450.0
+559,128744,University of Bridgeport,Bridgeport,CT,Bachelor's Degree,5543,3565278,0.5177,18.0,0.3029,591.0
+560,128771,Central Connecticut State University,New Britain,CT,Bachelor's Degree,5543,3565278,0.5867,20.0,0.2636,1324.0
+565,129020,University of Connecticut,Storrs,CT,Bachelor's Degree,5543,3565278,0.5317,26.0,0.7264,3077.0
+575,129525,University of Hartford,West Hartford,CT,Bachelor's Degree,5543,3565278,0.6351,20.0,0.4875,1003.0
+585,129941,University of New Haven,West Haven,CT,Bachelor's Degree,5543,3565278,0.8212,21.0,0.5394,1118.0
+590,130183,Post University,Waterbury,CT,Bachelor's Degree,5543,3565278,0.8113,17.0,0.157,242.0
+592,130226,Quinnipiac University,Hamden,CT,Bachelor's Degree,5543,3565278,0.7371,22.0,0.7253,1780.0
+594,130314,University of Saint Joseph,West Hartford,CT,Bachelor's Degree,5543,3565278,0.9268,16.0,0.5924,157.0
+596,130493,Southern Connecticut State University,New Haven,CT,Bachelor's Degree,5543,3565278,0.646,18.0,0.2349,1358.0
+600,130624,United States Coast Guard Academy,New London,CT,Bachelor's Degree,5543,3565278,0.1992,26.0,0.8125,224.0
+603,130794,Yale University,New Haven,CT,Bachelor's Degree,5543,3565278,0.0673,31.0,0.8767,1354.0
+607,130934,Delaware State University,Dover,DE,Bachelor's Degree,2489,973764,0.4443,17.0,0.2593,1018.0
+608,130943,University of Delaware,Newark,DE,Bachelor's Degree,2489,973764,0.6659,24.0,0.7223,3806.0
+611,131098,Wesley College,Dover,DE,Bachelor's Degree,2489,973764,0.6255,14.0,0.1944,535.0
+613,131159,American University,Washington,DC,Bachelor's Degree,68,689545,0.3502,26.0,0.5426,1596.0
+617,131450,Gallaudet University,Washington,DC,Bachelor's Degree,68,689545,0.6192,16.0,0.2642,212.0
+618,131469,George Washington University,Washington,DC,Bachelor's Degree,68,689545,0.4646,27.0,0.7384,2359.0
+619,131496,Georgetown University,Washington,DC,Bachelor's Degree,68,689545,0.1724,30.0,0.894,1566.0
+620,131520,Howard University,Washington,DC,Bachelor's Degree,68,689545,0.4904,21.0,0.4557,1376.0
+626,132408,The Baptist College of Florida,Graceville,FL,Bachelor's Degree,65758,21477737,0.5217,17.0,0.3556,45.0
+627,132471,Barry University,Miami,FL,Bachelor's Degree,65758,21477737,0.5506,17.0,0.1929,622.0
+629,132657,Lynn University,Boca Raton,FL,Bachelor's Degree,65758,21477737,0.7597,19.0,0.4818,413.0
+635,132879,Johnson University Florida,Kissimmee,FL,Bachelor's Degree,65758,21477737,0.3919,17.0,0.1772,79.0
+636,132903,University of Central Florida,Orlando,FL,Bachelor's Degree,65758,21477737,0.4857,24.0,0.4358,5904.0
+642,133492,Eckerd College,Saint Petersburg,FL,Bachelor's Degree,65758,21477737,0.7172,23.0,0.6269,528.0
+644,133526,Edward Waters University,Jacksonville,FL,Bachelor's Degree,65758,21477737,0.5371,14.0,0.1048,229.0
+646,133650,Florida Agricultural and Mechanical University,Tallahassee,FL,Bachelor's Degree,65758,21477737,0.5141,18.0,0.1829,1498.0
+647,133669,Florida Atlantic University,Boca Raton,FL,Bachelor's Degree,65758,21477737,0.6768,20.0,0.256,3004.0
+649,133711,Flagler College,Saint Augustine,FL,Bachelor's Degree,65758,21477737,0.5048,21.0,0.4372,645.0
+654,133872,AdventHealth University,Orlando,FL,Bachelor's Degree,65758,21477737,0.6032,18.0,0.1379,58.0
+655,133881,Florida Institute of Technology,Melbourne,FL,Bachelor's Degree,65758,21477737,0.5736,24.0,0.5007,753.0
+657,133951,Florida International University,Miami,FL,Bachelor's Degree,65758,21477737,0.504,22.0,0.2814,4108.0
+662,134079,Florida Southern College,Lakeland,FL,Bachelor's Degree,65758,21477737,0.4533,24.0,0.5746,536.0
+663,134097,Florida State University,Tallahassee,FL,Bachelor's Degree,65758,21477737,0.559,25.0,0.6602,5747.0
+665,134130,University of Florida,Gainesville,FL,Bachelor's Degree,65758,21477737,0.4754,27.0,0.6833,6158.0
+696,135726,University of Miami,Coral Gables,FL,Bachelor's Degree,65758,21477737,0.3779,28.0,0.6976,1981.0
+701,136172,University of North Florida,Jacksonville,FL,Bachelor's Degree,65758,21477737,0.566,22.0,0.3293,1579.0
+702,136215,Nova Southeastern University,Fort Lauderdale,FL,Bachelor's Degree,65758,21477737,0.5924,22.0,0.394,599.0
+705,136330,Palm Beach Atlantic University,West Palm Beach,FL,Bachelor's Degree,65758,21477737,0.9289,20.0,0.4496,427.0
+728,137351,University of South Florida,Tampa,FL,Bachelor's Degree,65758,21477737,0.4464,24.0,0.5515,3799.0
+729,137476,St. Thomas University,Miami Gardens,FL,Bachelor's Degree,65758,21477737,0.4892,17.0,0.2967,209.0
+731,137564,Southeastern University,Lakeland,FL,Bachelor's Degree,65758,21477737,0.4648,17.0,0.2598,562.0
+737,137847,The University of Tampa,Tampa,FL,Bachelor's Degree,65758,21477737,0.5074,22.0,0.5023,1513.0
+740,137953,Trinity Baptist College,Jacksonville,FL,Bachelor's Degree,65758,21477737,0.8634,15.0,0.3061,49.0
+741,137962,Trinity College of Florida,Trinity,FL,Bachelor's Degree,65758,21477737,0.7368,16.0,0.2,25.0
+744,138275,Warner University,Lake Wales,FL,Bachelor's Degree,65758,21477737,0.512,17.0,0.1553,161.0
+746,138293,Webber International University,Babson Park,FL,Bachelor's Degree,65758,21477737,0.5264,16.0,0.2059,170.0
+748,138354,The University of West Florida,Pensacola,FL,Bachelor's Degree,65758,21477737,0.4154,20.0,0.22,1623.0
+763,138868,Point University,West Point,GA,Bachelor's Degree,59425,10617423,0.4907,17.0,0.2059,204.0
+767,138947,Clark Atlanta University,Atlanta,GA,Bachelor's Degree,59425,10617423,0.512,16.0,0.3381,624.0
+769,139144,Berry College,Mount Berry,GA,Bachelor's Degree,59425,10617423,0.5537,24.0,0.6036,618.0
+771,139199,Brenau University,Gainesville,GA,Bachelor's Degree,59425,10617423,0.6562,19.0,0.3234,167.0
+779,139366,Columbus State University,Columbus,GA,Bachelor's Degree,59425,10617423,0.5569,17.0,0.1426,1059.0
+781,139393,Covenant College,Lookout Mountain,GA,Bachelor's Degree,59425,10617423,0.9398,24.0,0.6493,268.0
+787,139658,Emory University,Atlanta,GA,Bachelor's Degree,59425,10617423,0.2367,29.0,0.8274,1356.0
+789,139719,Fort Valley State University,Fort Valley,GA,Bachelor's Degree,59425,10617423,0.2051,16.0,0.0945,635.0
+791,139755,Georgia Institute of Technology-Main Campus,Atlanta,GA,Bachelor's Degree,59425,10617423,0.3217,30.0,0.4004,3042.0
+792,139764,Georgia Southwestern State University,Americus,GA,Bachelor's Degree,59425,10617423,0.7164,18.0,0.139,374.0
+793,139861,Georgia College & State University,Milledgeville,GA,Bachelor's Degree,59425,10617423,0.7566,23.0,0.4762,1302.0
+794,139931,Georgia Southern University,Statesboro,GA,Bachelor's Degree,59425,10617423,0.6023,21.0,0.2526,4536.0
+795,139940,Georgia State University,Atlanta,GA,Bachelor's Degree,59425,10617423,0.5665,20.0,0.2666,3155.0
+796,139959,University of Georgia,Athens,GA,Bachelor's Degree,59425,10617423,0.5288,26.0,0.6516,4922.0
+803,140234,LaGrange College,Lagrange,GA,Bachelor's Degree,59425,10617423,0.5725,20.0,0.42,200.0
+808,140447,Mercer University,Macon,GA,Bachelor's Degree,59425,10617423,0.6688,24.0,0.4852,641.0
+809,140553,Morehouse College,Atlanta,GA,Bachelor's Degree,59425,10617423,0.7596,18.0,0.425,567.0
+812,140696,Oglethorpe University,Atlanta,GA,Bachelor's Degree,59425,10617423,0.7847,22.0,0.3935,277.0
+813,140720,Paine College,Augusta,GA,Bachelor's Degree,59425,10617423,0.3063,14.0,0.1503,173.0
+814,140818,Piedmont University,Demorest,GA,Bachelor's Degree,59425,10617423,0.57,19.0,0.3413,208.0
+816,140872,Reinhardt University,Waleska,GA,Bachelor's Degree,59425,10617423,0.9076,18.0,0.1579,342.0
+818,140951,Savannah College of Art and Design,Savannah,GA,Bachelor's Degree,59425,10617423,0.6991,20.0,0.5425,1681.0
+819,140960,Savannah State University,Savannah,GA,Bachelor's Degree,59425,10617423,0.8264,16.0,0.1054,1025.0
+820,140988,Shorter University,Rome,GA,Bachelor's Degree,59425,10617423,0.6289,18.0,0.3786,280.0
+823,141060,Spelman College,Atlanta,GA,Bachelor's Degree,59425,10617423,0.4833,20.0,0.6827,520.0
+825,141185,Toccoa Falls College,Toccoa Falls,GA,Bachelor's Degree,59425,10617423,0.4545,18.0,0.4767,172.0
+826,141237,Truett McConnell University,Cleveland,GA,Bachelor's Degree,59425,10617423,0.9113,18.0,0.341,173.0
+828,141264,Valdosta State University,Valdosta,GA,Bachelor's Degree,59425,10617423,0.5043,19.0,0.187,1920.0
+829,141325,Wesleyan College,Macon,GA,Bachelor's Degree,59425,10617423,0.4163,19.0,0.4508,122.0
+830,141334,University of West Georgia,Carrollton,GA,Bachelor's Degree,59425,10617423,0.5688,18.0,0.1948,2012.0
+831,141361,Young Harris College,Young Harris,GA,Bachelor's Degree,59425,10617423,0.522,18.0,0.3013,385.0
+832,141486,Chaminade University of Honolulu,Honolulu,HI,Bachelor's Degree,10932,1415872,0.8203,19.0,0.4077,233.0
+833,141565,University of Hawaii at Hilo,Hilo,HI,Bachelor's Degree,10932,1415872,0.7125,16.0,0.1878,442.0
+834,141574,University of Hawaii at Manoa,Honolulu,HI,Bachelor's Degree,10932,1415872,0.8142,20.0,0.3222,1884.0
+846,142090,Boise Bible College,Boise,ID,Bachelor's Degree,83569,1787065,0.9815,18.0,0.2571,35.0
+847,142115,Boise State University,Boise,ID,Bachelor's Degree,83569,1787065,0.7957,20.0,0.211,2218.0
+850,142285,University of Idaho,Moscow,ID,Bachelor's Degree,83569,1787065,0.7205,20.0,0.3416,1578.0
+852,142328,Lewis-Clark State College,Lewiston,ID,Bachelor's Degree,83569,1787065,0.9888,18.0,0.2193,374.0
+856,142461,Northwest Nazarene University,Nampa,ID,Bachelor's Degree,83569,1787065,0.5626,20.0,0.4256,242.0
+858,142522,Brigham Young University-Idaho,Rexburg,ID,Bachelor's Degree,83569,1787065,0.9959,20.0,0.172,1541.0
+863,143048,School of the Art Institute of Chicago,Chicago,IL,Bachelor's Degree,57914,12671821,0.6648,22.0,0.4728,552.0
+865,143118,Aurora University,Aurora,IL,Bachelor's Degree,57914,12671821,0.7724,19.0,0.3718,546.0
+870,143288,Blackburn College,Carlinville,IL,Bachelor's Degree,57914,12671821,0.5547,19.0,0.3407,135.0
+873,143358,Bradley University,Peoria,IL,Bachelor's Degree,57914,12671821,0.6568,23.0,0.5953,1013.0
+886,144005,Chicago State University,Chicago,IL,Bachelor's Degree,57914,12671821,0.2118,16.0,0.0394,254.0
+888,144050,University of Chicago,Chicago,IL,Bachelor's Degree,57914,12671821,0.0838,32.0,0.8898,1524.0
+897,144351,Concordia University-Chicago,River Forest,IL,Bachelor's Degree,57914,12671821,0.5031,20.0,0.3494,332.0
+905,144892,Eastern Illinois University,Charleston,IL,Bachelor's Degree,57914,12671821,0.5021,19.0,0.3753,1231.0
+907,144962,Elmhurst University,Elmhurst,IL,Bachelor's Degree,57914,12671821,0.5478,21.0,0.5107,560.0
+908,144971,Eureka College,Eureka,IL,Bachelor's Degree,57914,12671821,0.6237,19.0,0.4744,156.0
+915,145372,Greenville University,Greenville,IL,Bachelor's Degree,57914,12671821,0.5629,19.0,0.5153,262.0
+919,145497,Hebrew Theological College,Skokie,IL,Bachelor's Degree,57914,12671821,0.9677,19.0,0.0338,355.0
+922,145600,University of Illinois Chicago,Chicago,IL,Bachelor's Degree,57914,12671821,0.7665,21.0,0.3385,3093.0
+925,145637,University of Illinois Urbana-Champaign,Champaign,IL,Bachelor's Degree,57914,12671821,0.6556,26.0,0.6982,6906.0
+926,145646,Illinois Wesleyan University,Bloomington,IL,Bachelor's Degree,57914,12671821,0.6191,25.0,0.7526,489.0
+930,145725,Illinois Institute of Technology,Chicago,IL,Bachelor's Degree,57914,12671821,0.5271,25.0,0.3722,403.0
+931,145813,Illinois State University,Normal,IL,Bachelor's Degree,57914,12671821,0.8772,21.0,0.4691,3072.0
+938,146339,Judson University,Elgin,IL,Bachelor's Degree,57914,12671821,0.706,21.0,0.5,154.0
+949,146612,Lewis University,Romeoville,IL,Bachelor's Degree,57914,12671821,0.6184,20.0,0.4436,665.0
+950,146667,Lincoln Christian University,Lincoln,IL,Bachelor's Degree,57914,12671821,0.596,19.0,0.3067,75.0
+951,146676,Lincoln College,Lincoln,IL,Bachelor's Degree,57914,12671821,0.516,15.0,0.0513,39.0
+954,146719,Loyola University Chicago,Chicago,IL,Bachelor's Degree,57914,12671821,0.7126,24.0,0.6665,2003.0
+959,146825,MacMurray College,Jacksonville,IL,Bachelor's Degree,57914,12671821,0.6267,17.0,0.3562,146.0
+962,147013,McKendree University,Lebanon,IL,Bachelor's Degree,57914,12671821,0.635,19.0,0.4354,294.0
+964,147129,Methodist College,Peoria,IL,Bachelor's Degree,57914,12671821,0.5128,20.0,0.3571,28.0
+966,147244,Millikin University,Decatur,IL,Bachelor's Degree,57914,12671821,0.6,20.0,0.4725,527.0
+967,147341,Monmouth College,Monmouth,IL,Bachelor's Degree,57914,12671821,0.624,20.0,0.4636,343.0
+976,147660,North Central College,Naperville,IL,Bachelor's Degree,57914,12671821,0.5716,22.0,0.5652,552.0
+977,147679,North Park University,Chicago,IL,Bachelor's Degree,57914,12671821,0.4945,19.0,0.4075,346.0
+979,147703,Northern Illinois University,Dekalb,IL,Bachelor's Degree,57914,12671821,0.5035,19.0,0.2395,2630.0
+980,147767,Northwestern University,Evanston,IL,Bachelor's Degree,57914,12671821,0.1304,31.0,0.8402,2034.0
+981,147776,Northeastern Illinois University,Chicago,IL,Bachelor's Degree,57914,12671821,0.6704,16.0,0.0261,996.0
+984,147828,Olivet Nazarene University,Bourbonnais,IL,Bachelor's Degree,57914,12671821,0.7658,20.0,0.5292,667.0
+987,148016,Principia College,Elsah,IL,Bachelor's Degree,57914,12671821,0.7547,21.0,0.6055,109.0
+989,148131,Quincy University,Quincy,IL,Bachelor's Degree,57914,12671821,0.6336,19.0,0.3702,262.0
+995,148405,Rockford University,Rockford,IL,Bachelor's Degree,57914,12671821,0.5382,19.0,0.2,105.0
+996,148487,Roosevelt University,Chicago,IL,Bachelor's Degree,57914,12671821,0.7228,19.0,0.264,534.0
+997,148496,Dominican University,River Forest,IL,Bachelor's Degree,57914,12671821,0.6277,19.0,0.4938,405.0
+1000,148584,University of St Francis,Joliet,IL,Bachelor's Degree,57914,12671821,0.5053,21.0,0.3818,220.0
+1002,148627,Saint Xavier University,Chicago,IL,Bachelor's Degree,57914,12671821,0.7467,19.0,0.4165,473.0
+1003,148654,University of Illinois Springfield,Springfield,IL,Bachelor's Degree,57914,12671821,0.6312,20.0,0.3494,269.0
+1013,149222,Southern Illinois University-Carbondale,Carbondale,IL,Bachelor's Degree,57914,12671821,0.8064,19.0,0.2551,2254.0
+1014,149231,Southern Illinois University-Edwardsville,Edwardsville,IL,Bachelor's Degree,57914,12671821,0.8822,20.0,0.259,2039.0
+1019,149505,Trinity Christian College,Palos Heights,IL,Bachelor's Degree,57914,12671821,0.8769,21.0,0.5401,187.0
+1020,149514,Trinity International University-Illinois,Deerfield,IL,Bachelor's Degree,57914,12671821,0.6631,19.0,0.3758,157.0
+1023,149639,VanderCook College of Music,Chicago,IL,Bachelor's Degree,57914,12671821,0.9574,22.0,0.2609,23.0
+1026,149772,Western Illinois University,Macomb,IL,Bachelor's Degree,57914,12671821,0.6007,18.0,0.2819,1724.0
+1027,149781,Wheaton College,Wheaton,IL,Bachelor's Degree,57914,12671821,0.7052,27.0,0.7739,597.0
+1030,150066,Anderson University,Anderson,IN,Bachelor's Degree,36420,6732219,0.5962,21.0,0.4971,515.0
+1031,150136,Ball State University,Muncie,IN,Bachelor's Degree,36420,6732219,0.605,20.0,0.474,3447.0
+1032,150145,Bethel University,Mishawaka,IN,Bachelor's Degree,36420,6732219,0.6646,19.0,0.6,220.0
+1033,150163,Butler University,Indianapolis,IN,Bachelor's Degree,36420,6732219,0.7043,25.0,0.634,1101.0
+1039,150400,DePauw University,Greencastle,IN,Bachelor's Degree,36420,6732219,0.6476,25.0,0.8149,578.0
+1043,150534,University of Evansville,Evansville,IN,Bachelor's Degree,36420,6732219,0.6974,23.0,0.6718,518.0
+1044,150604,Franklin College,Franklin,IN,Bachelor's Degree,36420,6732219,0.698,19.0,0.5594,286.0
+1045,150668,Goshen College,Goshen,IN,Bachelor's Degree,36420,6732219,0.6587,21.0,0.5536,168.0
+1046,150677,Grace College and Theological Seminary,Winona Lake,IN,Bachelor's Degree,36420,6732219,0.7738,21.0,0.5614,342.0
+1047,150756,Hanover College,Hanover,IN,Bachelor's Degree,36420,6732219,0.6128,22.0,0.6909,372.0
+1049,150774,Holy Cross College,Notre Dame,IN,Bachelor's Degree,36420,6732219,0.906,19.0,0.3478,115.0
+1051,150941,Huntington University,Huntington,IN,Bachelor's Degree,36420,6732219,0.8392,19.0,0.5234,235.0
+1053,151102,Purdue University Fort Wayne,Fort Wayne,IN,Bachelor's Degree,36420,6732219,0.9216,19.0,0.1327,1326.0
+1054,151111,Indiana University-Purdue University-Indianapolis,Indianapolis,IN,Bachelor's Degree,36420,6732219,0.6967,19.0,0.2434,2864.0
+1055,151263,University of Indianapolis,Indianapolis,IN,Bachelor's Degree,36420,6732219,0.7341,20.0,0.4714,823.0
+1056,151290,Indiana Institute of Technology,Fort Wayne,IN,Bachelor's Degree,36420,6732219,0.696,18.0,0.1578,431.0
+1057,151306,University of Southern Indiana,Evansville,IN,Bachelor's Degree,36420,6732219,0.6933,19.0,0.2648,1813.0
+1058,151324,Indiana State University,Terre Haute,IN,Bachelor's Degree,36420,6732219,0.8549,16.0,0.2574,2653.0
+1059,151333,Indiana University-Kokomo,Kokomo,IN,Bachelor's Degree,36420,6732219,0.7132,18.0,0.1869,396.0
+1060,151342,Indiana University-South Bend,South Bend,IN,Bachelor's Degree,36420,6732219,0.7621,18.0,0.1128,780.0
+1061,151351,Indiana University-Bloomington,Bloomington,IN,Bachelor's Degree,36420,6732219,0.7799,24.0,0.6398,7569.0
+1062,151360,Indiana University-Northwest,Gary,IN,Bachelor's Degree,36420,6732219,0.7928,17.0,0.1495,602.0
+1063,151379,Indiana University-Southeast,New Albany,IN,Bachelor's Degree,36420,6732219,0.8456,18.0,0.165,818.0
+1064,151388,Indiana University-East,Richmond,IN,Bachelor's Degree,36420,6732219,0.6224,18.0,0.2548,365.0
+1071,151777,Manchester University,North Manchester,IN,Bachelor's Degree,36420,6732219,0.7063,19.0,0.456,364.0
+1072,151786,Marian University,Indianapolis,IN,Bachelor's Degree,36420,6732219,0.5611,20.0,0.3502,297.0
+1073,151801,Indiana Wesleyan University-Marion,Marion,IN,Bachelor's Degree,36420,6732219,0.9521,21.0,0.5394,723.0
+1078,152080,University of Notre Dame,Notre Dame,IN,Bachelor's Degree,36420,6732219,0.198,32.0,0.9148,2007.0
+1079,152099,Oakland City University,Oakland City,IN,Bachelor's Degree,36420,6732219,0.5529,17.0,0.4227,97.0
+1083,152318,Rose-Hulman Institute of Technology,Terre Haute,IN,Bachelor's Degree,36420,6732219,0.5779,28.0,0.6737,619.0
+1084,152336,University of Saint Francis-Fort Wayne,Fort Wayne,IN,Bachelor's Degree,36420,6732219,0.9526,18.0,0.3994,318.0
+1085,152381,Saint Mary-of-the-Woods College,Saint Mary of the Woods,IN,Bachelor's Degree,36420,6732219,0.5936,19.0,0.4265,68.0
+1086,152390,Saint Mary's College,Notre Dame,IN,Bachelor's Degree,36420,6732219,0.8037,22.0,0.7266,417.0
+1089,152530,Taylor University,Upland,IN,Bachelor's Degree,36420,6732219,0.8508,24.0,0.7505,497.0
+1090,152567,Trine University,Angola,IN,Bachelor's Degree,36420,6732219,0.7765,21.0,0.4818,467.0
+1091,152600,Valparaiso University,Valparaiso,IN,Bachelor's Degree,36420,6732219,0.819,23.0,0.6307,769.0
+1094,152673,Wabash College,Crawfordsville,IN,Bachelor's Degree,36420,6732219,0.6143,22.0,0.6587,252.0
+1097,153001,Buena Vista University,Storm Lake,IA,Bachelor's Degree,56273,3155070,0.6808,19.0,0.4605,228.0
+1100,153108,Central College,Pella,IA,Bachelor's Degree,56273,3155070,0.6428,20.0,0.675,320.0
+1101,153126,Clarke University,Dubuque,IA,Bachelor's Degree,56273,3155070,0.7192,20.0,0.6065,155.0
+1102,153144,Coe College,Cedar Rapids,IA,Bachelor's Degree,56273,3155070,0.6335,22.0,0.6226,363.0
+1103,153162,Cornell College,Mount Vernon,IA,Bachelor's Degree,56273,3155070,0.7045,23.0,0.6987,302.0
+1107,153250,Dordt University,Sioux Center,IA,Bachelor's Degree,56273,3155070,0.6982,22.0,0.6932,339.0
+1108,153269,Drake University,Des Moines,IA,Bachelor's Degree,56273,3155070,0.6687,24.0,0.6845,729.0
+1109,153278,University of Dubuque,Dubuque,IA,Bachelor's Degree,56273,3155070,0.7742,17.0,0.3091,440.0
+1113,153320,Faith Baptist Bible College and Theological Seminary,Ankeny,IA,Bachelor's Degree,56273,3155070,0.6423,20.0,0.383,47.0
+1115,153366,Graceland University-Lamoni,Lamoni,IA,Bachelor's Degree,56273,3155070,0.4789,18.0,0.4089,225.0
+1116,153375,Grand View University,Des Moines,IA,Bachelor's Degree,56273,3155070,0.9821,18.0,0.3586,290.0
+1117,153384,Grinnell College,Grinnell,IA,Bachelor's Degree,56273,3155070,0.2491,30.0,0.777,444.0
+1129,153603,Iowa State University,Ames,IA,Bachelor's Degree,56273,3155070,0.8715,22.0,0.4655,5332.0
+1130,153621,Iowa Wesleyan University,Mount Pleasant,IA,Bachelor's Degree,56273,3155070,0.4963,18.0,0.1518,112.0
+1132,153658,University of Iowa,Iowa City,IA,Bachelor's Degree,56273,3155070,0.8074,23.0,0.5311,4293.0
+1138,153825,Loras College,Dubuque,IA,Bachelor's Degree,56273,3155070,0.9496,21.0,0.5952,373.0
+1139,153834,Luther College,Decorah,IA,Bachelor's Degree,56273,3155070,0.6689,23.0,0.7189,644.0
+1143,154004,Morningside University,Sioux City,IA,Bachelor's Degree,56273,3155070,0.5599,20.0,0.4469,273.0
+1144,154013,Mount Mercy University,Cedar Rapids,IA,Bachelor's Degree,56273,3155070,0.6065,19.0,0.5253,158.0
+1147,154095,University of Northern Iowa,Cedar Falls,IA,Bachelor's Degree,56273,3155070,0.7953,20.0,0.4008,1674.0
+1148,154101,Northwestern College,Orange City,IA,Bachelor's Degree,56273,3155070,0.7212,22.0,0.5993,302.0
+1155,154235,Saint Ambrose University,Davenport,IA,Bachelor's Degree,56273,3155070,0.7298,20.0,0.5407,577.0
+1159,154350,Simpson College,Indianola,IA,Bachelor's Degree,56273,3155070,0.8946,21.0,0.6373,408.0
+1165,154493,Upper Iowa University,Fayette,IA,Bachelor's Degree,56273,3155070,0.66,17.0,0.3374,243.0
+1166,154518,Waldorf University,Forest City,IA,Bachelor's Degree,56273,3155070,0.6609,18.0,0.2288,153.0
+1167,154527,Wartburg College,Waverly,IA,Bachelor's Degree,56273,3155070,0.7382,21.0,0.6266,482.0
+1173,154688,Baker University,Baldwin City,KS,Bachelor's Degree,82278,2913314,0.8162,20.0,0.4158,202.0
+1175,154712,Benedictine College,Atchison,KS,Bachelor's Degree,82278,2913314,0.9915,21.0,0.423,487.0
+1176,154721,Bethany College,Lindsborg,KS,Bachelor's Degree,82278,2913314,0.9927,18.0,0.1527,131.0
+1186,155025,Emporia State University,Emporia,KS,Bachelor's Degree,82278,2913314,0.8698,19.0,0.2562,601.0
+1190,155089,Friends University,Wichita,KS,Bachelor's Degree,82278,2913314,0.5849,19.0,0.2888,187.0
+1203,155317,University of Kansas,Lawrence,KS,Bachelor's Degree,82278,2913314,0.9347,22.0,0.4705,3649.0
+1204,155335,Newman University,Wichita,KS,Bachelor's Degree,82278,2913314,0.5627,20.0,0.4045,178.0
+1207,155414,Kansas Wesleyan University,Salina,KS,Bachelor's Degree,82278,2913314,0.6161,20.0,0.2806,139.0
+1211,155496,Manhattan Christian College,Manhattan,KS,Bachelor's Degree,82278,2913314,0.8218,19.0,0.2895,76.0
+1212,155511,McPherson College,McPherson,KS,Bachelor's Degree,82278,2913314,0.7271,15.0,0.2971,175.0
+1213,155520,MidAmerica Nazarene University,Olathe,KS,Bachelor's Degree,82278,2913314,0.6136,19.0,0.33,200.0
+1221,155812,University of Saint Mary,Leavenworth,KS,Bachelor's Degree,82278,2913314,0.4904,19.0,0.3739,115.0
+1224,155900,Southwestern College,Winfield,KS,Bachelor's Degree,82278,2913314,0.9116,19.0,0.381,147.0
+1225,155937,Sterling College,Sterling,KS,Bachelor's Degree,82278,2913314,0.4141,19.0,0.3885,139.0
+1226,155973,Tabor College,Hillsboro,KS,Bachelor's Degree,82278,2913314,0.5541,19.0,0.3357,140.0
+1229,156125,Wichita State University,Wichita,KS,Bachelor's Degree,82278,2913314,0.9473,21.0,0.209,1263.0
+1231,156189,Alice Lloyd College,Pippa Passes,KY,Bachelor's Degree,40408,4467673,0.3511,19.0,0.0725,69.0
+1232,156213,Asbury University,Wilmore,KY,Bachelor's Degree,40408,4467673,0.5685,21.0,0.5063,320.0
+1236,156286,Bellarmine University,Louisville,KY,Bachelor's Degree,40408,4467673,0.8394,22.0,0.5644,606.0
+1237,156295,Berea College,Berea,KY,Bachelor's Degree,40408,4467673,0.3651,22.0,0.4769,390.0
+1240,156356,Brescia University,Owensboro,KY,Bachelor's Degree,40408,4467673,0.4794,19.0,0.2357,157.0
+1241,156365,Campbellsville University,Campbellsville,KY,Bachelor's Degree,40408,4467673,0.7557,18.0,0.2987,529.0
+1243,156408,Centre College,Danville,KY,Bachelor's Degree,40408,4467673,0.7117,26.0,0.7977,351.0
+1247,156541,University of the Cumberlands,Williamsburg,KY,Bachelor's Degree,40408,4467673,0.6828,19.0,0.2331,459.0
+1248,156620,Eastern Kentucky University,Richmond,KY,Bachelor's Degree,40408,4467673,0.7063,19.0,0.2974,1940.0
+1251,156745,Georgetown College,Georgetown,KY,Bachelor's Degree,40408,4467673,0.6769,20.0,0.5297,236.0
+1260,157030,Kentucky Mountain Bible College,Jackson,KY,Bachelor's Degree,40408,4467673,0.6275,18.0,0.2308,13.0
+1261,157058,Kentucky State University,Frankfort,KY,Bachelor's Degree,40408,4467673,0.3792,17.0,0.0489,327.0
+1262,157076,Kentucky Wesleyan College,Owensboro,KY,Bachelor's Degree,40408,4467673,0.6421,20.0,0.3376,157.0
+1263,157085,University of Kentucky,Lexington,KY,Bachelor's Degree,40408,4467673,0.8911,22.0,0.4419,4535.0
+1264,157100,Kentucky Christian University,Grayson,KY,Bachelor's Degree,40408,4467673,0.3629,19.0,0.2988,164.0
+1267,157289,University of Louisville,Louisville,KY,Bachelor's Degree,40408,4467673,0.7169,22.0,0.3211,2619.0
+1272,157386,Morehead State University,Morehead,KY,Bachelor's Degree,40408,4467673,0.8539,20.0,0.2787,1550.0
+1273,157401,Murray State University,Murray,KY,Bachelor's Degree,40408,4467673,0.906,20.0,0.313,1594.0
+1275,157447,Northern Kentucky University,Highland Heights,KY,Bachelor's Degree,40408,4467673,0.9189,20.0,0.2192,1843.0
+1277,157535,University of Pikeville,Pikeville,KY,Bachelor's Degree,40408,4467673,1.0,18.0,0.1541,318.0
+1285,157748,The Southern Baptist Theological Seminary,Louisville,KY,Bachelor's Degree,40408,4467673,0.3917,20.0,0.3623,69.0
+1286,157757,Spalding University,Louisville,KY,Bachelor's Degree,40408,4467673,0.501,18.0,0.2281,171.0
+1288,157809,Thomas More University,Crestview Hills,KY,Bachelor's Degree,40408,4467673,0.8831,20.0,0.3577,260.0
+1291,157863,Union College,Barbourville,KY,Bachelor's Degree,40408,4467673,0.6918,18.0,0.1942,206.0
+1292,157951,Western Kentucky University,Bowling Green,KY,Bachelor's Degree,40408,4467673,0.927,19.0,0.3176,2503.0
+1298,158477,Centenary College of Louisiana,Shreveport,LA,Bachelor's Degree,52378,4648794,0.6707,21.0,0.5506,158.0
+1305,158802,Dillard University,New Orleans,LA,Bachelor's Degree,52378,4648794,0.4761,17.0,0.2507,343.0
+1307,159009,Grambling State University,Grambling,LA,Bachelor's Degree,52378,4648794,0.3823,16.0,0.1032,746.0
+1312,159382,Louisiana State University-Alexandria,Alexandria,LA,Bachelor's Degree,52378,4648794,0.6779,18.0,0.1299,177.0
+1313,159391,Louisiana State University and Agricultural & Mechanical College,Baton Rouge,LA,Bachelor's Degree,52378,4648794,0.7734,23.0,0.3884,5710.0
+1315,159416,Louisiana State University-Shreveport,Shreveport,LA,Bachelor's Degree,52378,4648794,0.7555,20.0,0.1626,369.0
+1319,159568,Louisiana College,Pineville,LA,Bachelor's Degree,52378,4648794,0.6944,18.0,0.1615,291.0
+1321,159647,Louisiana Tech University,Ruston,LA,Bachelor's Degree,52378,4648794,0.6384,21.0,0.347,1222.0
+1322,159656,Loyola University New Orleans,New Orleans,LA,Bachelor's Degree,52378,4648794,0.9031,22.0,0.5168,865.0
+1323,159717,McNeese State University,Lake Charles,LA,Bachelor's Degree,52378,4648794,0.8205,20.0,0.3198,1282.0
+1324,159939,University of New Orleans,New Orleans,LA,Bachelor's Degree,52378,4648794,0.5766,20.0,0.1795,858.0
+1326,159966,Nicholls State University,Thibodaux,LA,Bachelor's Degree,52378,4648794,0.902,20.0,0.2203,958.0
+1327,159993,University of Louisiana at Monroe,Monroe,LA,Bachelor's Degree,52378,4648794,0.8765,20.0,0.2284,1287.0
+1329,160038,Northwestern State University of Louisiana,Natchitoches,LA,Bachelor's Degree,52378,4648794,0.8397,19.0,0.2918,1196.0
+1331,160074,Franciscan Missionaries of Our Lady University,Baton Rouge,LA,Bachelor's Degree,52378,4648794,0.5272,20.0,0.2162,74.0
+1343,160612,Southeastern Louisiana University,Hammond,LA,Bachelor's Degree,52378,4648794,0.8795,20.0,0.1735,2265.0
+1344,160621,Southern University and A & M College,Baton Rouge,LA,Bachelor's Degree,52378,4648794,0.7856,17.0,0.0861,743.0
+1345,160630,Southern University at New Orleans,New Orleans,LA,Bachelor's Degree,52378,4648794,0.2145,15.0,0.0702,171.0
+1347,160658,University of Louisiana at Lafayette,Lafayette,LA,Bachelor's Degree,52378,4648794,0.5527,21.0,0.192,2703.0
+1349,160755,Tulane University of Louisiana,New Orleans,LA,Bachelor's Degree,52378,4648794,0.305,29.0,0.7492,1639.0
+1350,160904,Xavier University of Louisiana,New Orleans,LA,Bachelor's Degree,52378,4648794,0.6575,20.0,0.3618,503.0
+1359,161086,Colby College,Waterville,ME,Bachelor's Degree,35380,1344212,0.2252,29.0,0.8765,494.0
+1365,161235,University of Maine at Fort Kent,Fort Kent,ME,Bachelor's Degree,35380,1344212,0.893,15.0,0.2365,148.0
+1367,161253,University of Maine,Orono,ME,Bachelor's Degree,35380,1344212,0.9121,21.0,0.3972,1941.0
+1368,161299,Maine Maritime Academy,Castine,ME,Bachelor's Degree,35380,1344212,0.6515,19.0,0.5325,231.0
+1370,161457,University of New England,Biddeford,ME,Bachelor's Degree,35380,1344212,0.8514,20.0,0.5916,573.0
+1374,161518,Saint Joseph's College of Maine,Standish,ME,Bachelor's Degree,35380,1344212,0.7763,21.0,0.5228,241.0
+1377,161554,University of Southern Maine,Portland,ME,Bachelor's Degree,35380,1344212,0.8777,19.0,0.2046,821.0
+1386,161873,University of Baltimore,Baltimore,MD,Bachelor's Degree,12406,6045680,0.5267,18.0,0.1535,215.0
+1387,162007,Bowie State University,Bowie,MD,Bachelor's Degree,12406,6045680,0.5747,15.0,0.1509,477.0
+1388,162061,Capitol Technology University,Laurel,MD,Bachelor's Degree,12406,6045680,0.9749,17.0,0.1846,65.0
+1392,162210,Washington Adventist University,Takoma Park,MD,Bachelor's Degree,12406,6045680,0.3309,14.0,0.1732,127.0
+1393,162283,Coppin State University,Baltimore,MD,Bachelor's Degree,12406,6045680,0.3719,16.0,0.1224,425.0
+1397,162584,Frostburg State University,Frostburg,MD,Bachelor's Degree,12406,6045680,0.6346,17.0,0.2792,813.0
+1406,162928,Johns Hopkins University,Baltimore,MD,Bachelor's Degree,12406,6045680,0.1412,32.0,0.8699,1384.0
+1411,163268,University of Maryland-Baltimore County,Baltimore,MD,Bachelor's Degree,12406,6045680,0.5942,24.0,0.437,1547.0
+1414,163338,University of Maryland Eastern Shore,Princess Anne,MD,Bachelor's Degree,12406,6045680,0.4906,15.0,0.2063,882.0
+1418,163453,Morgan State University,Baltimore,MD,Bachelor's Degree,12406,6045680,0.6672,16.0,0.1298,1017.0
+1419,163462,Mount St. Mary's University,Emmitsburg,MD,Bachelor's Degree,12406,6045680,0.6715,18.0,0.6152,447.0
+1422,163578,Notre Dame of Maryland University,Baltimore,MD,Bachelor's Degree,12406,6045680,0.5192,23.0,0.4063,128.0
+1427,163912,St. Mary's College of Maryland,St. Mary's City,MD,Bachelor's Degree,12406,6045680,0.7881,22.0,0.7208,419.0
+1429,164076,Towson University,Towson,MD,Bachelor's Degree,12406,6045680,0.7338,21.0,0.4703,2460.0
+1432,164173,Stevenson University,Stevenson,MD,Bachelor's Degree,12406,6045680,0.5974,19.0,0.4432,862.0
+1434,164270,McDaniel College,Westminster,MD,Bachelor's Degree,12406,6045680,0.7982,20.0,0.595,437.0
+1438,164447,American International College,Springfield,MA,Bachelor's Degree,10554,6892503,0.6316,17.0,0.0695,302.0
+1439,164465,Amherst College,Amherst,MA,Bachelor's Degree,10554,6892503,0.1412,31.0,0.8467,463.0
+1444,164580,Babson College,Wellesley,MA,Bachelor's Degree,10554,6892503,0.263,27.0,0.8913,469.0
+1446,164614,Boston Baptist College,Boston,MA,Bachelor's Degree,10554,6892503,0.9231,18.0,0.6,20.0
+1450,164720,Becker College,Worcester,MA,Bachelor's Degree,10554,6892503,0.6689,19.0,0.3604,333.0
+1451,164739,Bentley University,Waltham,MA,Bachelor's Degree,10554,6892503,0.4232,26.0,0.8174,975.0
+1457,164924,Boston College,Chestnut Hill,MA,Bachelor's Degree,10554,6892503,0.2851,30.0,0.8831,2284.0
+1458,164988,Boston University,Boston,MA,Bachelor's Degree,10554,6892503,0.3262,27.0,0.8357,3871.0
+1459,165015,Brandeis University,Waltham,MA,Bachelor's Degree,10554,6892503,0.3402,29.0,0.8012,820.0
+1460,165024,Bridgewater State University,Bridgewater,MA,Bachelor's Degree,10554,6892503,0.8071,19.0,0.3614,1425.0
+1470,165529,Curry College,Milton,MA,Bachelor's Degree,10554,6892503,0.877,18.0,0.4452,584.0
+1475,165644,Eastern Nazarene College,Quincy,MA,Bachelor's Degree,10554,6892503,0.6129,18.0,0.2912,182.0
+1476,165662,Emerson College,Boston,MA,Bachelor's Degree,10554,6892503,0.4903,25.0,0.7529,866.0
+1481,165820,Fitchburg State University,Fitchburg,MA,Bachelor's Degree,10554,6892503,0.7476,18.0,0.3726,738.0
+1482,165866,Framingham State University,Framingham,MA,Bachelor's Degree,10554,6892503,0.7081,19.0,0.4071,818.0
+1484,165936,Gordon College,Wenham,MA,Bachelor's Degree,10554,6892503,0.9323,23.0,0.5736,462.0
+1488,166027,Harvard University,Cambridge,MA,Bachelor's Degree,10554,6892503,0.0558,32.0,0.867,1662.0
+1493,166391,Lasell University,Newton,MA,Bachelor's Degree,10554,6892503,0.7815,18.0,0.5665,556.0
+1495,166452,Lesley University,Cambridge,MA,Bachelor's Degree,10554,6892503,0.671,21.0,0.4683,331.0
+1498,166513,University of Massachusetts-Lowell,Lowell,MA,Bachelor's Degree,10554,6892503,0.5679,23.0,0.3787,1476.0
+1499,166629,University of Massachusetts-Amherst,Amherst,MA,Bachelor's Degree,10554,6892503,0.5832,25.0,0.7073,4574.0
+1502,166656,MCPHS University,Boston,MA,Bachelor's Degree,10554,6892503,0.8656,21.0,0.5,544.0
+1503,166674,Massachusetts College of Art and Design,Boston,MA,Bachelor's Degree,10554,6892503,0.7133,21.0,0.517,352.0
+1504,166683,Massachusetts Institute of Technology,Cambridge,MA,Bachelor's Degree,10554,6892503,0.083,33.0,0.8515,1131.0
+1505,166692,Massachusetts Maritime Academy,Buzzards Bay,MA,Bachelor's Degree,10554,6892503,0.7394,20.0,0.5552,299.0
+1523,167288,Massachusetts College of Liberal Arts,North Adams,MA,Bachelor's Degree,10554,6892503,0.7341,21.0,0.4416,308.0
+1526,167358,Northeastern University,Boston,MA,Bachelor's Degree,10554,6892503,0.2848,31.0,0.0,2661.0
+1528,167394,College of Our Lady of the Elms,Chicopee,MA,Bachelor's Degree,10554,6892503,0.7488,19.0,0.5412,194.0
+1538,167783,Simmons University,Boston,MA,Bachelor's Degree,10554,6892503,0.5757,24.0,0.7631,401.0
+1542,167899,Springfield College,Springfield,MA,Bachelor's Degree,10554,6892503,0.6415,20.0,0.6802,541.0
+1544,167987,University of Massachusetts-Dartmouth,North Dartmouth,MA,Bachelor's Degree,10554,6892503,0.7626,19.0,0.3723,1539.0
+1546,168005,Suffolk University,Boston,MA,Bachelor's Degree,10554,6892503,0.8237,20.0,0.4471,1239.0
+1548,168148,Tufts University,Medford,MA,Bachelor's Degree,10554,6892503,0.161,30.0,0.8669,1307.0
+1549,168218,Wellesley College,Wellesley,MA,Bachelor's Degree,10554,6892503,0.2985,27.0,0.8393,585.0
+1550,168227,Wentworth Institute of Technology,Boston,MA,Bachelor's Degree,10554,6892503,0.6667,22.0,0.523,1023.0
+1551,168254,Western New England University,Springfield,MA,Bachelor's Degree,10554,6892503,0.8094,22.0,0.5239,794.0
+1552,168263,Westfield State University,Westfield,MA,Bachelor's Degree,10554,6892503,0.7961,19.0,0.5319,987.0
+1554,168342,Williams College,Williamstown,MA,Bachelor's Degree,10554,6892503,0.1761,31.0,0.8958,547.0
+1556,168430,Worcester State University,Worcester,MA,Bachelor's Degree,10554,6892503,0.6857,20.0,0.39,777.0
+1557,168528,Adrian College,Adrian,MI,Bachelor's Degree,96714,9986857,0.6103,19.0,0.3046,581.0
+1558,168546,Albion College,Albion,MI,Bachelor's Degree,96714,9986857,0.798,21.0,0.525,360.0
+1561,168591,Alma College,Alma,MI,Bachelor's Degree,96714,9986857,0.6757,21.0,0.5103,435.0
+1563,168740,Andrews University,Berrien Springs,MI,Bachelor's Degree,96714,9986857,0.3921,20.0,0.3564,376.0
+1564,168786,Aquinas College,Grand Rapids,MI,Bachelor's Degree,96714,9986857,0.7241,21.0,0.3598,453.0
+1568,169080,Calvin University,Grand Rapids,MI,Bachelor's Degree,96714,9986857,0.7427,23.0,0.62,971.0
+1572,169248,Central Michigan University,Mount Pleasant,MI,Bachelor's Degree,96714,9986857,0.6875,20.0,0.278,3342.0
+1575,169327,Cleary University,Howell,MI,Bachelor's Degree,96714,9986857,0.7231,18.0,0.0476,21.0
+1576,169363,Concordia University Ann Arbor,Ann Arbor,MI,Bachelor's Degree,96714,9986857,0.7027,19.0,0.1908,152.0
+1578,169442,College for Creative Studies,Detroit,MI,Bachelor's Degree,96714,9986857,0.4961,20.0,0.4395,248.0
+1585,169716,University of Detroit Mercy,Detroit,MI,Bachelor's Degree,96714,9986857,0.7292,22.0,0.5282,479.0
+1588,169798,Eastern Michigan University,Ypsilanti,MI,Bachelor's Degree,96714,9986857,0.7478,19.0,0.1663,2609.0
+1589,169910,Ferris State University,Big Rapids,MI,Bachelor's Degree,96714,9986857,0.7818,19.0,0.3044,772.0
+1592,169983,Kettering University,Flint,MI,Bachelor's Degree,96714,9986857,0.701,24.0,0.0836,371.0
+1595,170037,Cornerstone University,Grand Rapids,MI,Bachelor's Degree,96714,9986857,0.7298,19.0,0.4662,311.0
+1597,170082,Grand Valley State University,Allendale,MI,Bachelor's Degree,96714,9986857,0.8114,21.0,0.3675,3940.0
+1600,170286,Hillsdale College,Hillsdale,MI,Bachelor's Degree,96714,9986857,0.5003,27.0,0.7869,366.0
+1601,170301,Hope College,Holland,MI,Bachelor's Degree,96714,9986857,0.7204,24.0,0.7048,901.0
+1609,170639,Lake Superior State University,Sault Ste Marie,MI,Bachelor's Degree,96714,9986857,0.9189,19.0,0.3548,372.0
+1611,170675,Lawrence Technological University,Southfield,MI,Bachelor's Degree,96714,9986857,0.5529,22.0,0.2037,324.0
+1614,170806,Madonna University,Livonia,MI,Bachelor's Degree,96714,9986857,0.5988,20.0,0.3521,142.0
+1615,170842,Marygrove College,Detroit,MI,Bachelor's Degree,96714,9986857,0.5749,14.0,0.144,125.0
+1616,170967,Rochester University,Rochester Hills,MI,Bachelor's Degree,96714,9986857,0.5789,17.0,0.1654,127.0
+1617,170976,University of Michigan-Ann Arbor,Ann Arbor,MI,Bachelor's Degree,96714,9986857,0.2628,29.0,0.7905,6119.0
+1619,171100,Michigan State University,East Lansing,MI,Bachelor's Degree,96714,9986857,0.6628,23.0,0.5347,8087.0
+1620,171128,Michigan Technological University,Houghton,MI,Bachelor's Degree,96714,9986857,0.7544,24.0,0.3122,1150.0
+1621,171137,University of Michigan-Dearborn,Dearborn,MI,Bachelor's Degree,96714,9986857,0.6227,21.0,0.2155,840.0
+1622,171146,University of Michigan-Flint,Flint,MI,Bachelor's Degree,96714,9986857,0.7358,18.0,0.1453,585.0
+1628,171456,Northern Michigan University,Marquette,MI,Bachelor's Degree,96714,9986857,0.6988,19.0,0.2561,1195.0
+1630,171492,Northwood University,Midland,MI,Bachelor's Degree,96714,9986857,0.6939,20.0,0.4053,486.0
+1632,171571,Oakland University,Rochester Hills,MI,Bachelor's Degree,96714,9986857,0.8039,20.0,0.2624,2359.0
+1633,171599,Olivet College,Olivet,MI,Bachelor's Degree,96714,9986857,0.5687,17.0,0.3867,300.0
+1635,171881,Kuyper College,Grand Rapids,MI,Bachelor's Degree,96714,9986857,0.7116,19.0,0.3788,66.0
+1640,172051,Saginaw Valley State University,University Center,MI,Bachelor's Degree,96714,9986857,0.7614,19.0,0.1167,1636.0
+1642,172264,Siena Heights University,Adrian,MI,Bachelor's Degree,96714,9986857,0.7749,18.0,0.3419,272.0
+1646,172334,Spring Arbor University,Spring Arbor,MI,Bachelor's Degree,96714,9986857,0.6889,20.0,0.3834,313.0
+1648,172440,Finlandia University,Hancock,MI,Bachelor's Degree,96714,9986857,0.4595,16.0,0.1818,77.0
+1654,172644,Wayne State University,Detroit,MI,Bachelor's Degree,96714,9986857,0.7987,20.0,0.1843,2121.0
+1657,172699,Western Michigan University,Kalamazoo,MI,Bachelor's Degree,96714,9986857,0.8238,19.0,0.2323,2983.0
+1665,173045,Augsburg University,Minneapolis,MN,Bachelor's Degree,86936,5639632,0.5918,19.0,0.4895,380.0
+1668,173124,Bemidji State University,Bemidji,MN,Bachelor's Degree,86936,5639632,0.938,19.0,0.2955,748.0
+1669,173142,Bethany Lutheran College,Mankato,MN,Bachelor's Degree,86936,5639632,0.853,20.0,0.4632,136.0
+1670,173160,Bethel University,Saint Paul,MN,Bachelor's Degree,86936,5639632,0.9491,22.0,0.6797,615.0
+1673,173258,Carleton College,Northfield,MN,Bachelor's Degree,86936,5639632,0.2065,29.0,0.8786,527.0
+1677,173452,Martin Luther College,New Ulm,MN,Bachelor's Degree,86936,5639632,0.7786,22.0,0.4469,179.0
+1683,173665,Hamline University,Saint Paul,MN,Bachelor's Degree,86936,5639632,0.7239,21.0,0.5473,539.0
+1691,173902,Macalester College,Saint Paul,MN,Bachelor's Degree,86936,5639632,0.3902,29.0,0.8502,534.0
+1693,173920,Minnesota State University-Mankato,Mankato,MN,Bachelor's Degree,86936,5639632,0.6663,20.0,0.2524,2298.0
+1697,174066,University of Minnesota-Twin Cities,Minneapolis,MN,Bachelor's Degree,86936,5639632,0.4458,26.0,0.6547,5496.0
+1698,174075,University of Minnesota-Crookston,Crookston,MN,Bachelor's Degree,86936,5639632,0.7676,19.0,0.4245,212.0
+1700,174127,Minneapolis College of Art and Design,Minneapolis,MN,Bachelor's Degree,86936,5639632,0.6601,21.0,0.55,120.0
+1704,174233,University of Minnesota-Duluth,Duluth,MN,Bachelor's Degree,86936,5639632,0.7596,22.0,0.357,1871.0
+1705,174251,University of Minnesota-Morris,Morris,MN,Bachelor's Degree,86936,5639632,0.598,22.0,0.5208,409.0
+1707,174358,Minnesota State University Moorhead,Moorhead,MN,Bachelor's Degree,86936,5639632,0.773,20.0,0.3133,1050.0
+1711,174437,North Central University,Minneapolis,MN,Bachelor's Degree,86936,5639632,0.535,19.0,0.0474,274.0
+1713,174491,University of Northwestern-St Paul,Saint Paul,MN,Bachelor's Degree,86936,5639632,0.8677,21.0,0.5444,450.0
+1715,174525,Oak Hills Christian College,Bemidji,MN,Bachelor's Degree,86936,5639632,0.291,18.0,0.2941,17.0
+1719,174747,College of Saint Benedict,Saint Joseph,MN,Bachelor's Degree,86936,5639632,0.7414,22.0,0.7429,490.0
+1721,174783,Saint Cloud State University,Saint Cloud,MN,Bachelor's Degree,86936,5639632,0.862,19.0,0.1936,1839.0
+1722,174792,Saint Johns University,Collegeville,MN,Bachelor's Degree,86936,5639632,0.7408,23.0,0.6793,449.0
+1723,174817,Saint Mary's University of Minnesota,Winona,MN,Bachelor's Degree,86936,5639632,0.7761,19.0,0.5579,328.0
+1724,174844,St Olaf College,Northfield,MN,Bachelor's Degree,86936,5639632,0.3597,26.0,0.8192,863.0
+1725,174862,Crown College,Saint Bonifacius,MN,Bachelor's Degree,86936,5639632,0.5295,19.0,0.4176,170.0
+1726,174899,The College of Saint Scholastica,Duluth,MN,Bachelor's Degree,86936,5639632,0.6147,20.0,0.6113,476.0
+1727,174914,University of St Thomas,Saint Paul,MN,Bachelor's Degree,86936,5639632,0.8396,24.0,0.6438,1443.0
+1729,175005,St Catherine University,Saint Paul,MN,Bachelor's Degree,86936,5639632,0.6739,19.0,0.4677,402.0
+1732,175078,Southwest Minnesota State University,Marshall,MN,Bachelor's Degree,86936,5639632,0.6403,19.0,0.3264,478.0
+1739,175272,Winona State University,Winona,MN,Bachelor's Degree,86936,5639632,0.6246,20.0,0.367,1763.0
+1742,175342,Alcorn State University,Alcorn State,MS,Bachelor's Degree,48432,2976149,0.8056,16.0,0.1883,563.0
+1744,175430,Blue Mountain College,Blue Mountain,MS,Bachelor's Degree,48432,2976149,0.9921,18.0,0.4,70.0
+1750,175616,Delta State University,Cleveland,MS,Bachelor's Degree,48432,2976149,0.8725,18.0,0.1768,379.0
+1758,175856,Jackson State University,Jackson,MS,Bachelor's Degree,48432,2976149,0.6752,17.0,0.2367,862.0
+1761,175980,Millsaps College,Jackson,MS,Bachelor's Degree,48432,2976149,0.5264,23.0,0.6,210.0
+1763,176017,University of Mississippi,University,MS,Bachelor's Degree,48432,2976149,0.7873,21.0,0.4383,3347.0
+1764,176035,Mississippi University for Women,Columbus,MS,Bachelor's Degree,48432,2976149,0.9613,18.0,0.2582,182.0
+1765,176044,Mississippi Valley State University,Itta Bena,MS,Bachelor's Degree,48432,2976149,0.7567,16.0,0.1675,388.0
+1766,176053,Mississippi College,Clinton,MS,Bachelor's Degree,48432,2976149,0.8248,21.0,0.4108,465.0
+1769,176080,Mississippi State University,Mississippi State,MS,Bachelor's Degree,48432,2976149,0.6524,21.0,0.312,2869.0
+1773,176318,Rust College,Holly Springs,MS,Bachelor's Degree,48432,2976149,0.4149,14.0,0.1667,270.0
+1776,176372,University of Southern Mississippi,Hattiesburg,MS,Bachelor's Degree,48432,2976149,0.5804,19.0,0.2683,1916.0
+1778,176406,Tougaloo College,Tougaloo,MS,Bachelor's Degree,48432,2976149,0.3912,15.0,0.1852,243.0
+1780,176479,William Carey University,Hattiesburg,MS,Bachelor's Degree,48432,2976149,0.5689,20.0,0.148,196.0
+1782,176628,Avila University,Kansas City,MO,Bachelor's Degree,69707,6137428,0.5089,18.0,0.3429,210.0
+1786,176789,Calvary University,Kansas City,MO,Bachelor's Degree,69707,6137428,0.9423,19.0,0.1333,30.0
+1788,176910,Central Christian College of the Bible,Moberly,MO,Bachelor's Degree,69707,6137428,0.3491,16.0,0.2041,49.0
+1789,176947,Central Methodist University-College of Liberal Arts and Sciences,Fayette,MO,Bachelor's Degree,69707,6137428,0.5786,20.0,0.3456,298.0
+1790,176965,University of Central Missouri,Warrensburg,MO,Bachelor's Degree,69707,6137428,0.7945,19.0,0.289,1761.0
+1792,177038,Cleveland University-Kansas City,Overland Park,KS,Bachelor's Degree,82278,2913314,0.75,17.0,0.0,1.0
+1795,177083,Conception Seminary College,Conception,MO,Bachelor's Degree,69707,6137428,1.0,21.0,0.2857,14.0
+1800,177144,Culver-Stockton College,Canton,MO,Bachelor's Degree,69707,6137428,0.5589,18.0,0.4028,216.0
+1801,177214,Drury University,Springfield,MO,Bachelor's Degree,69707,6137428,0.842,23.0,0.4571,361.0
+1806,177339,Evangel University,Springfield,MO,Bachelor's Degree,69707,6137428,0.6146,20.0,0.3806,381.0
+1807,177418,Fontbonne University,Saint Louis,MO,Bachelor's Degree,69707,6137428,0.9676,20.0,0.5074,136.0
+1817,177746,Kansas City Art Institute,Kansas City,MO,Bachelor's Degree,69707,6137428,0.5802,20.0,0.5318,173.0
+1823,177968,Lindenwood University,Saint Charles,MO,Bachelor's Degree,69707,6137428,0.5539,20.0,0.3291,1331.0
+1828,178059,Maryville University of Saint Louis,Saint Louis,MO,Bachelor's Degree,69707,6137428,0.7227,23.0,0.5718,348.0
+1832,178208,Midwestern Baptist Theological Seminary,Kansas City,MO,Bachelor's Degree,69707,6137428,0.9655,17.0,0.0,5.0
+1834,178244,Missouri Baptist University,Saint Louis,MO,Bachelor's Degree,69707,6137428,0.5744,18.0,0.244,209.0
+1835,178341,Missouri Southern State University,Joplin,MO,Bachelor's Degree,69707,6137428,0.9413,19.0,0.1535,697.0
+1838,178396,University of Missouri-Columbia,Columbia,MO,Bachelor's Degree,69707,6137428,0.7813,24.0,0.4588,6371.0
+1839,178402,University of Missouri-Kansas City,Kansas City,MO,Bachelor's Degree,69707,6137428,0.6271,21.0,0.2271,1101.0
+1840,178411,Missouri University of Science and Technology,Rolla,MO,Bachelor's Degree,69707,6137428,0.8808,25.0,0.2285,1116.0
+1841,178420,University of Missouri-St Louis,Saint Louis,MO,Bachelor's Degree,69707,6137428,0.7588,21.0,0.317,530.0
+1846,178615,Truman State University,Kirksville,MO,Bachelor's Degree,69707,6137428,0.7897,25.0,0.5607,1252.0
+1847,178624,Northwest Missouri State University,Maryville,MO,Bachelor's Degree,69707,6137428,0.7495,20.0,0.2739,1274.0
+1849,178697,College of the Ozarks,Point Lookout,MO,Bachelor's Degree,69707,6137428,0.1236,21.0,0.5309,243.0
+1855,179043,Rockhurst University,Kansas City,MO,Bachelor's Degree,69707,6137428,0.7358,23.0,0.6906,446.0
+1857,179159,Saint Louis University,Saint Louis,MO,Bachelor's Degree,69707,6137428,0.6333,25.0,0.691,1670.0
+1861,179256,Saint Louis Christian College,Florissant,MO,Bachelor's Degree,69707,6137428,0.3611,18.0,0.4118,17.0
+1865,179326,Southwest Baptist University,Bolivar,MO,Bachelor's Degree,69707,6137428,0.9047,20.0,0.3374,492.0
+1870,179548,Stephens College,Columbia,MO,Bachelor's Degree,69707,6137428,0.6779,20.0,0.4672,137.0
+1871,179557,Southeast Missouri State University,Cape Girardeau,MO,Bachelor's Degree,69707,6137428,0.8429,20.0,0.2779,1727.0
+1872,179566,Missouri State University-Springfield,Springfield,MO,Bachelor's Degree,69707,6137428,0.8585,21.0,0.2992,2523.0
+1876,179867,Washington University in St Louis,Saint Louis,MO,Bachelor's Degree,69707,6137428,0.1674,32.0,0.8759,1611.0
+1877,179894,Webster University,Saint Louis,MO,Bachelor's Degree,69707,6137428,0.5612,21.0,0.4574,411.0
+1878,179946,Westminster College,Fulton,MO,Bachelor's Degree,69707,6137428,0.6367,21.0,0.4942,259.0
+1879,179955,William Jewell College,Liberty,MO,Bachelor's Degree,69707,6137428,0.4938,23.0,0.5672,305.0
+1880,179964,William Woods University,Fulton,MO,Bachelor's Degree,69707,6137428,0.7312,19.0,0.4792,192.0
+1886,180106,Carroll College,Helena,MT,Bachelor's Degree,147040,1068778,0.641,22.0,0.5013,383.0
+1898,180416,Montana Technological University,Butte,MT,Bachelor's Degree,147040,1068778,0.8879,23.0,0.1799,239.0
+1899,180461,Montana State University,Bozeman,MT,Bachelor's Degree,147040,1068778,0.8286,21.0,0.2527,2157.0
+1900,180489,The University of Montana,Missoula,MT,Bachelor's Degree,147040,1068778,0.9102,20.0,0.2729,1330.0
+1901,180522,Montana State University-Northern,Havre,MT,Bachelor's Degree,147040,1068778,1.0,16.0,0.1765,102.0
+1902,180595,Rocky Mountain College,Billings,MT,Bachelor's Degree,147040,1068778,0.6985,20.0,0.318,261.0
+1907,180832,Clarkson College,Omaha,NE,Bachelor's Degree,77348,1934408,0.5181,21.0,0.4412,34.0
+1908,180878,Bryan College of Health Sciences,Lincoln,NE,Bachelor's Degree,77348,1934408,0.8551,22.0,0.5143,35.0
+1912,180984,Concordia University-Nebraska,Seward,NE,Bachelor's Degree,77348,1934408,0.7768,20.0,0.4966,296.0
+1913,181002,Creighton University,Omaha,NE,Bachelor's Degree,77348,1934408,0.7048,24.0,0.693,938.0
+1914,181020,Doane University,Crete,NE,Bachelor's Degree,77348,1934408,0.7659,20.0,0.5163,337.0
+1915,181127,Hastings College,Hastings,NE,Bachelor's Degree,77348,1934408,0.7115,20.0,0.4661,236.0
+1918,181215,University of Nebraska at Kearney,Kearney,NE,Bachelor's Degree,77348,1934408,0.8538,20.0,0.3152,1123.0
+1920,181297,Nebraska Methodist College of Nursing & Allied Health,Omaha,NE,Bachelor's Degree,77348,1934408,0.3427,22.0,0.2857,21.0
+1923,181330,Midland University,Fremont,NE,Bachelor's Degree,77348,1934408,0.6063,18.0,0.3736,364.0
+1925,181394,University of Nebraska at Omaha,Omaha,NE,Bachelor's Degree,77348,1934408,0.7594,19.0,0.2115,1461.0
+1929,181446,Nebraska Wesleyan University,Lincoln,NE,Bachelor's Degree,77348,1934408,0.788,22.0,0.5084,356.0
+1930,181464,University of Nebraska-Lincoln,Lincoln,NE,Bachelor's Degree,77348,1934408,0.7636,22.0,0.4056,3918.0
+1936,181738,Union College,Lincoln,NE,Bachelor's Degree,77348,1934408,0.5614,19.0,0.2552,145.0
+1940,181853,York College,York,NE,Bachelor's Degree,77348,1934408,0.4374,18.0,0.2917,72.0
+1946,182281,University of Nevada-Las Vegas,Las Vegas,NV,Bachelor's Degree,110572,3080156,0.8841,18.0,0.1286,2985.0
+1947,182290,University of Nevada-Reno,Reno,NV,Bachelor's Degree,110572,3080156,0.7852,21.0,0.2909,2853.0
+1949,182458,Sierra Nevada University,Incline Village,NV,Bachelor's Degree,110572,3080156,0.657,18.0,0.3857,70.0
+1954,182670,Dartmouth College,Hanover,NH,Bachelor's Degree,9349,1359711,0.1097,30.0,0.8638,1094.0
+1957,182795,Franklin Pierce University,Rindge,NH,Bachelor's Degree,9349,1359711,0.7971,19.0,0.4483,542.0
+1966,183044,University of New Hampshire-Main Campus,Durham,NH,Bachelor's Degree,9349,1359711,0.7861,22.0,0.689,2846.0
+1967,183062,Keene State College,Keene,NH,Bachelor's Degree,9349,1359711,0.7876,19.0,0.5059,1180.0
+1990,183822,Bloomfield College,Bloomfield,NJ,Bachelor's Degree,8723,8882190,0.597,15.0,0.1144,367.0
+1993,183910,Caldwell University,Caldwell,NJ,Bachelor's Degree,8723,8882190,0.6354,18.0,0.3562,292.0
+1995,183974,Centenary University,Hackettstown,NJ,Bachelor's Degree,8723,8882190,0.8676,17.0,0.4744,234.0
+2007,184603,Fairleigh Dickinson University-Metropolitan Campus,Teaneck,NJ,Bachelor's Degree,8723,8882190,0.7951,18.0,0.3891,532.0
+2008,184612,Felician University,Lodi,NJ,Bachelor's Degree,8723,8882190,0.7879,15.0,0.2456,228.0
+2009,184694,Fairleigh Dickinson University-Florham Campus,Madison,NJ,Bachelor's Degree,8723,8882190,0.8315,20.0,0.3922,589.0
+2021,185262,Kean University,Union,NJ,Bachelor's Degree,8723,8882190,0.7427,17.0,0.2266,1381.0
+2027,185572,Monmouth University,West Long Branch,NJ,Bachelor's Degree,8723,8882190,0.7419,20.0,0.5582,1005.0
+2034,185828,New Jersey Institute of Technology,Newark,NJ,Bachelor's Degree,8723,8882190,0.6076,23.0,0.2922,931.0
+2041,186131,Princeton University,Princeton,NJ,Bachelor's Degree,8723,8882190,0.0714,32.0,0.8738,1355.0
+2043,186201,Ramapo College of New Jersey,Mahwah,NJ,Bachelor's Degree,8723,8882190,0.5324,20.0,0.5928,867.0
+2045,186283,Rider University,Lawrenceville,NJ,Bachelor's Degree,8723,8882190,0.6901,19.0,0.5691,919.0
+2051,186432,Saint Peter's University,Jersey City,NJ,Bachelor's Degree,8723,8882190,0.6731,16.0,0.3308,390.0
+2053,186584,Seton Hall University,South Orange,NJ,Bachelor's Degree,8723,8882190,0.7625,23.0,0.6008,1453.0
+2057,186867,Stevens Institute of Technology,Hoboken,NJ,Bachelor's Degree,8723,8882190,0.4356,29.0,0.4463,614.0
+2058,186876,Stockton University,Galloway,NJ,Bachelor's Degree,8723,8882190,0.709,19.0,0.5687,997.0
+2062,187134,The College of New Jersey,Ewing,NJ,Bachelor's Degree,8723,8882190,0.4867,26.0,0.7594,1363.0
+2070,187648,Eastern New Mexico University-Main Campus,Portales,NM,Bachelor's Degree,121590,2096829,0.4983,17.0,0.1759,688.0
+2077,187967,New Mexico Institute of Mining and Technology,Socorro,NM,Bachelor's Degree,121590,2096829,0.2445,23.0,0.2442,344.0
+2079,187985,University of New Mexico-Main Campus,Albuquerque,NM,Bachelor's Degree,121590,2096829,0.5788,19.0,0.216,3375.0
+2083,188030,New Mexico State University-Main Campus,Las Cruces,NM,Bachelor's Degree,121590,2096829,0.6576,18.0,0.1873,2034.0
+2096,188429,Adelphi University,Garden City,NY,Bachelor's Degree,54555,19453561,0.7219,19.0,0.6034,996.0
+2099,188526,Albany College of Pharmacy and Health Sciences,Albany,NY,Bachelor's Degree,54555,19453561,0.6587,24.0,0.5577,52.0
+2102,188641,Alfred University,Alfred,NY,Bachelor's Degree,54555,19453561,0.6841,21.0,0.4422,536.0
+2114,189097,Barnard College,New York,NY,Bachelor's Degree,54555,19453561,0.1962,29.0,0.8651,593.0
+2131,189705,Canisius College,Buffalo,NY,Bachelor's Degree,54555,19453561,0.8698,21.0,0.6329,711.0
+2141,190044,Clarkson University,Potsdam,NY,Bachelor's Degree,54555,19453561,0.6806,24.0,0.5933,777.0
+2145,190099,Colgate University,Hamilton,NY,Bachelor's Degree,54555,19453561,0.2736,30.0,0.8386,756.0
+2147,190150,Columbia University in the City of New York,New York,NY,Bachelor's Degree,54555,19453561,0.0661,31.0,0.8719,1460.0
+2153,190415,Cornell University,Ithaca,NY,Bachelor's Degree,54555,19453561,0.1507,30.0,0.8839,3214.0
+2178,190716,D'Youville College,Buffalo,NY,Bachelor's Degree,54555,19453561,0.7262,21.0,0.2454,273.0
+2181,190761,Dominican College of Blauvelt,Orangeburg,NY,Bachelor's Degree,54555,19453561,0.7147,17.0,0.3072,293.0
+2190,191241,Fordham University,Bronx,NY,Bachelor's Degree,54555,19453561,0.4757,27.0,0.7895,1853.0
+2203,191676,Houghton College,Houghton,NY,Bachelor's Degree,54555,19453561,0.9457,21.0,0.6043,230.0
+2206,191931,Iona College,New Rochelle,NY,Bachelor's Degree,54555,19453561,0.9121,20.0,0.5983,722.0
+2213,192040,Jewish Theological Seminary of America,New York,NY,Bachelor's Degree,54555,19453561,0.5189,28.0,0.7105,38.0
+2217,192271,LIM College,New York,NY,Bachelor's Degree,54555,19453561,0.9056,18.0,0.4444,243.0
+2218,192323,Le Moyne College,Syracuse,NY,Bachelor's Degree,54555,19453561,0.6176,21.0,0.6962,520.0
+2219,192448,Long Island University,Brookville,NY,Bachelor's Degree,54555,19453561,0.8058,19.0,0.2735,1711.0
+2224,192703,Manhattan College,Riverdale,NY,Bachelor's Degree,54555,19453561,0.6685,22.0,0.5796,842.0
+2230,192864,Marymount Manhattan College,New York,NY,Bachelor's Degree,54555,19453561,0.8381,20.0,0.3796,461.0
+2231,192925,Medaille College,Buffalo,NY,Bachelor's Degree,54555,19453561,0.6919,15.0,0.2427,375.0
+2244,193292,Molloy College,Rockville Centre,NY,Bachelor's Degree,54555,19453561,0.7552,21.0,0.5193,441.0
+2247,193353,Mount Saint Mary College,Newburgh,NY,Bachelor's Degree,54555,19453561,0.8957,20.0,0.4477,440.0
+2248,193399,College of Mount Saint Vincent,Bronx,NY,Bachelor's Degree,54555,19453561,0.8606,18.0,0.3313,486.0
+2253,193645,The College of New Rochelle,New Rochelle,NY,Bachelor's Degree,54555,19453561,0.7339,20.0,0.207,541.0
+2261,193900,New York University,New York,NY,Bachelor's Degree,54555,19453561,0.3207,29.0,0.7649,5529.0
+2263,193973,Niagara University,Niagara University,NY,Bachelor's Degree,54555,19453561,0.8474,20.0,0.6299,635.0
+2267,194091,New York Institute of Technology,Old Westbury,NY,Bachelor's Degree,54555,19453561,0.6777,21.0,0.3149,848.0
+2269,194161,Nyack College,New York,NY,Bachelor's Degree,54555,19453561,0.9857,16.0,0.3277,235.0
+2274,194310,Pace University,New York,NY,Bachelor's Degree,54555,19453561,0.8383,21.0,0.4178,1812.0
+2279,194578,Pratt Institute-Main,Brooklyn,NY,Bachelor's Degree,54555,19453561,0.5739,23.0,0.5015,678.0
+2285,194824,Rensselaer Polytechnic Institute,Troy,NY,Bachelor's Degree,54555,19453561,0.4187,28.0,0.6154,1326.0
+2286,194958,Roberts Wesleyan College,Rochester,NY,Bachelor's Degree,54555,19453561,0.6632,20.0,0.5952,210.0
+2287,195003,Rochester Institute of Technology,Rochester,NY,Bachelor's Degree,54555,19453561,0.5727,26.0,0.279,2495.0
+2294,195164,St Bonaventure University,Saint Bonaventure,NY,Bachelor's Degree,54555,19453561,0.6599,21.0,0.6082,485.0
+2295,195173,St. Francis College,Brooklyn Heights,NY,Bachelor's Degree,54555,19453561,0.7878,17.0,0.3039,691.0
+2299,195243,St. Thomas Aquinas College,Sparkill,NY,Bachelor's Degree,54555,19453561,0.7888,18.0,0.4118,272.0
+2305,195526,Skidmore College,Saratoga Springs,NY,Bachelor's Degree,54555,19453561,0.365,26.0,0.8238,647.0
+2306,195544,St. Joseph's University-New York,Brooklyn,NY,Bachelor's Degree,54555,19453561,0.6792,19.0,0.6207,203.0
+2309,195720,Saint John Fisher College,Rochester,NY,Bachelor's Degree,54555,19453561,0.6236,21.0,0.6419,578.0
+2311,195809,St. John's University-New York,Queens,NY,Bachelor's Degree,54555,19453561,0.6493,22.0,0.4151,2756.0
+2317,196033,SUNY College of Agriculture and Technology at Cobleskill,Cobleskill,NY,Bachelor's Degree,54555,19453561,0.7335,16.0,0.4173,127.0
+2318,196042,Farmingdale State College,Farmingdale,NY,Bachelor's Degree,54555,19453561,0.4401,19.0,0.3234,402.0
+2320,196060,SUNY at Albany,Albany,NY,Bachelor's Degree,54555,19453561,0.5644,22.0,0.5484,2562.0
+2321,196079,Binghamton University,Vestal,NY,Bachelor's Degree,54555,19453561,0.4249,27.0,0.7227,2568.0
+2322,196088,University at Buffalo,Buffalo,NY,Bachelor's Degree,54555,19453561,0.5999,24.0,0.6036,3423.0
+2323,196097,Stony Brook University,Stony Brook,NY,Bachelor's Degree,54555,19453561,0.4099,26.0,0.5467,2674.0
+2324,196103,SUNY College of Environmental Science and Forestry,Syracuse,NY,Bachelor's Degree,54555,19453561,0.5195,25.0,0.6542,321.0
+2325,196112,SUNY Polytechnic Institute,Utica,NY,Bachelor's Degree,54555,19453561,0.6046,23.0,0.4394,198.0
+2326,196121,SUNY Brockport,Brockport,NY,Bachelor's Degree,54555,19453561,0.5267,20.0,0.4977,1083.0
+2327,196130,SUNY Buffalo State,Buffalo,NY,Bachelor's Degree,54555,19453561,0.6231,16.0,0.2995,1329.0
+2329,196158,SUNY at Fredonia,Fredonia,NY,Bachelor's Degree,54555,19453561,0.5925,21.0,0.4676,1003.0
+2330,196167,SUNY College at Geneseo,Geneseo,NY,Bachelor's Degree,54555,19453561,0.7274,25.0,0.7177,992.0
+2331,196176,State University of New York at New Paltz,New Paltz,NY,Bachelor's Degree,54555,19453561,0.4151,23.0,0.5971,1117.0
+2332,196185,SUNY Oneonta,Oneonta,NY,Bachelor's Degree,54555,19453561,0.4872,22.0,0.6294,1144.0
+2333,196194,SUNY College at Oswego,Oswego,NY,Bachelor's Degree,54555,19453561,0.5101,22.0,0.5016,1270.0
+2335,196219,SUNY at Purchase College,Purchase,NY,Bachelor's Degree,54555,19453561,0.408,22.0,0.5354,693.0
+2338,196246,SUNY College at Plattsburgh,Plattsburgh,NY,Bachelor's Degree,54555,19453561,0.4969,21.0,0.5088,967.0
+2341,196291,SUNY Maritime College,Throggs Neck,NY,Bachelor's Degree,54555,19453561,0.6833,22.0,0.4468,329.0
+2344,196413,Syracuse University,Syracuse,NY,Bachelor's Degree,54555,19453561,0.4833,24.0,0.7132,3365.0
+2358,197036,United States Military Academy,West  Point,NY,Bachelor's Degree,54555,19453561,0.1015,26.0,0.8086,1160.0
+2360,197133,Vassar College,Poughkeepsie,NY,Bachelor's Degree,54555,19453561,0.2573,30.0,0.8691,657.0
+2362,197151,School of Visual Arts,New York,NY,Bachelor's Degree,54555,19453561,0.7533,20.0,0.6311,656.0
+2364,197221,Webb Institute,Glen Cove,NY,Bachelor's Degree,54555,19453561,0.3619,30.0,0.7273,22.0
+2365,197230,Wells College,Aurora,NY,Bachelor's Degree,54555,19453561,0.627,21.0,0.5787,197.0
+2374,197708,Yeshiva University,New York,NY,Bachelor's Degree,54555,19453561,0.8049,24.0,0.7969,586.0
+2379,197869,Appalachian State University,Boone,NC,Bachelor's Degree,53819,10488084,0.6638,23.0,0.5225,3022.0
+2381,197911,Barton College,Wilson,NC,Bachelor's Degree,53819,10488084,0.4178,18.0,0.4129,201.0
+2383,197984,Belmont Abbey College,Belmont,NC,Bachelor's Degree,53819,10488084,0.6787,19.0,0.43,300.0
+2391,198136,Campbell University,Buies Creek,NC,Bachelor's Degree,53819,10488084,0.735,19.0,0.3814,818.0
+2395,198215,Catawba College,Salisbury,NC,Bachelor's Degree,53819,10488084,0.3179,18.0,0.402,296.0
+2399,198303,Chowan University,Murfreesboro,NC,Bachelor's Degree,53819,10488084,0.6175,14.0,0.1362,514.0
+2404,198385,Davidson College,Davidson,NC,Bachelor's Degree,53819,10488084,0.2213,29.0,0.8957,489.0
+2405,198419,Duke University,Durham,NC,Bachelor's Degree,53819,10488084,0.1142,31.0,0.8744,1712.0
+2407,198464,East Carolina University,Greenville,NC,Bachelor's Degree,53819,10488084,0.6904,21.0,0.3966,3991.0
+2409,198507,Elizabeth City State University,Elizabeth City,NC,Bachelor's Degree,53819,10488084,0.6995,17.0,0.2122,523.0
+2410,198516,Elon University,Elon,NC,Bachelor's Degree,53819,10488084,0.572,25.0,0.783,1424.0
+2412,198543,Fayetteville State University,Fayetteville,NC,Bachelor's Degree,53819,10488084,0.6039,17.0,0.1567,600.0
+2414,198561,Gardner-Webb University,Boiling Springs,NC,Bachelor's Degree,53819,10488084,0.5269,18.0,0.4402,493.0
+2416,198598,Greensboro College,Greensboro,NC,Bachelor's Degree,53819,10488084,0.7525,16.0,0.3274,223.0
+2422,198695,High Point University,High Point,NC,Bachelor's Degree,53819,10488084,0.7249,22.0,0.5916,1256.0
+2425,198756,Johnson C Smith University,Charlotte,NC,Bachelor's Degree,53819,10488084,0.4563,15.0,0.2507,383.0
+2431,198862,Livingstone College,Salisbury,NC,Bachelor's Degree,53819,10488084,0.7127,12.0,0.1643,353.0
+2433,198899,Mars Hill University,Mars Hill,NC,Bachelor's Degree,53819,10488084,0.6096,17.0,0.2867,436.0
+2437,198950,Meredith College,Raleigh,NC,Bachelor's Degree,53819,10488084,0.6002,20.0,0.5517,406.0
+2438,198969,Methodist University,Fayetteville,NC,Bachelor's Degree,53819,10488084,0.5594,17.0,0.2094,406.0
+2443,199032,Montreat College,Montreat,NC,Bachelor's Degree,53819,10488084,0.5438,18.0,0.4063,96.0
+2444,199069,University of Mount Olive,Mount Olive,NC,Bachelor's Degree,53819,10488084,0.5053,17.0,0.4213,235.0
+2447,199102,North Carolina A & T State University,Greensboro,NC,Bachelor's Degree,53819,10488084,0.6048,17.0,0.2576,1809.0
+2448,199111,University of North Carolina at Asheville,Asheville,NC,Bachelor's Degree,53819,10488084,0.7851,23.0,0.4565,552.0
+2449,199120,University of North Carolina at Chapel Hill,Chapel Hill,NC,Bachelor's Degree,53819,10488084,0.3054,28.0,0.8239,3913.0
+2450,199139,University of North Carolina at Charlotte,Charlotte,NC,Bachelor's Degree,53819,10488084,0.6331,22.0,0.3206,3509.0
+2451,199148,University of North Carolina at Greensboro,Greensboro,NC,Bachelor's Degree,53819,10488084,0.586,20.0,0.3179,2498.0
+2452,199157,North Carolina Central University,Durham,NC,Bachelor's Degree,53819,10488084,0.6587,17.0,0.2076,1387.0
+2453,199184,University of North Carolina School of the Arts,Winston Salem,NC,Bachelor's Degree,53819,10488084,0.3439,21.0,0.6901,171.0
+2454,199193,North Carolina State University at Raleigh,Raleigh,NC,Bachelor's Degree,53819,10488084,0.5043,26.0,0.5432,4216.0
+2455,199209,North Carolina Wesleyan College,Rocky Mount,NC,Bachelor's Degree,53819,10488084,0.5545,16.0,0.2081,221.0
+2456,199218,University of North Carolina Wilmington,Wilmington,NC,Bachelor's Degree,53819,10488084,0.6096,23.0,0.5305,2051.0
+2458,199272,William Peace University,Raleigh,NC,Bachelor's Degree,53819,10488084,0.5019,15.0,0.2844,225.0
+2459,199281,University of North Carolina at Pembroke,Pembroke,NC,Bachelor's Degree,53819,10488084,0.7437,18.0,0.2149,1010.0
+2460,199306,Pfeiffer University,Misenheimer,NC,Bachelor's Degree,53819,10488084,0.4653,17.0,0.3062,209.0
+2463,199412,Queens University of Charlotte,Charlotte,NC,Bachelor's Degree,53819,10488084,0.6712,21.0,0.4551,356.0
+2466,199458,Mid-Atlantic Christian University,Elizabeth City,NC,Bachelor's Degree,53819,10488084,0.4196,16.0,0.2059,34.0
+2471,199582,Saint Augustine's University,Raleigh,NC,Bachelor's Degree,53819,10488084,0.5765,13.0,0.2184,412.0
+2472,199607,Salem College,Winston-Salem,NC,Bachelor's Degree,53819,10488084,0.6224,21.0,0.5872,172.0
+2478,199698,St. Andrews University,Laurinburg,NC,Bachelor's Degree,53819,10488084,0.5732,17.0,0.2671,146.0
+2489,199865,Warren Wilson College,Swannanoa,NC,Bachelor's Degree,53819,10488084,0.8381,21.0,0.472,214.0
+2495,199962,Wingate University,Wingate,NC,Bachelor's Degree,53819,10488084,0.6981,20.0,0.4296,547.0
+2498,199999,Winston-Salem State University,Winston-Salem,NC,Bachelor's Degree,53819,10488084,0.5853,17.0,0.2324,680.0
+2499,200004,Western Carolina University,Cullowhee,NC,Bachelor's Degree,53819,10488084,0.4027,20.0,0.4045,1545.0
+2502,200059,Dickinson State University,Dickinson,ND,Bachelor's Degree,70698,762062,0.9308,18.0,0.1592,157.0
+2505,200156,University of Jamestown,Jamestown,ND,Bachelor's Degree,70698,762062,0.6499,18.0,0.2941,221.0
+2508,200217,University of Mary,Bismarck,ND,Bachelor's Degree,70698,762062,0.9567,20.0,0.4264,401.0
+2510,200253,Minot State University,Minot,ND,Bachelor's Degree,70698,762062,0.5679,19.0,0.2386,352.0
+2512,200280,University of North Dakota,Grand Forks,ND,Bachelor's Degree,70698,762062,0.8189,21.0,0.2782,2333.0
+2515,200332,North Dakota State University-Main Campus,Fargo,ND,Bachelor's Degree,70698,762062,0.9364,21.0,0.3235,2405.0
+2519,200484,Trinity Bible College and Graduate School,Ellendale,ND,Bachelor's Degree,70698,762062,0.4241,17.0,0.4634,41.0
+2522,200572,Valley City State University,Valley City,ND,Bachelor's Degree,70698,762062,0.8635,18.0,0.2667,180.0
+2527,200800,University of Akron Main Campus,Akron,OH,Bachelor's Degree,44826,11689100,0.966,19.0,0.1896,3123.0
+2532,201061,Art Academy of Cincinnati,Cincinnati,OH,Bachelor's Degree,44826,11689100,0.2297,18.0,0.5789,38.0
+2534,201104,Ashland University,Ashland,OH,Bachelor's Degree,44826,11689100,0.7674,20.0,0.492,565.0
+2541,201371,Bluffton University,Bluffton,OH,Bachelor's Degree,44826,11689100,0.5357,18.0,0.5021,239.0
+2544,201441,Bowling Green State University-Main Campus,Bowling Green,OH,Bachelor's Degree,44826,11689100,0.7268,19.0,0.3771,3591.0
+2549,201548,Capital University,Columbus,OH,Bachelor's Degree,44826,11689100,0.7193,22.0,0.503,660.0
+2550,201645,Case Western Reserve University,Cleveland,OH,Bachelor's Degree,44826,11689100,0.3627,30.0,0.6467,1370.0
+2551,201654,Cedarville University,Cedarville,OH,Bachelor's Degree,44826,11689100,0.742,23.0,0.6101,831.0
+2554,201690,Central State University,Wilberforce,OH,Bachelor's Degree,44826,11689100,0.395,14.0,0.1058,501.0
+2558,201858,Cincinnati Christian University,Cincinnati,OH,Bachelor's Degree,44826,11689100,0.9515,18.0,0.4375,112.0
+2560,201885,University of Cincinnati-Main Campus,Cincinnati,OH,Bachelor's Degree,44826,11689100,0.7588,23.0,0.3431,4101.0
+2567,202046,Cleveland Institute of Art,Cleveland,OH,Bachelor's Degree,44826,11689100,0.6491,20.0,0.5797,138.0
+2569,202134,Cleveland State University,Cleveland,OH,Bachelor's Degree,44826,11689100,0.8804,19.0,0.2378,1531.0
+2577,202480,University of Dayton,Dayton,OH,Bachelor's Degree,44826,11689100,0.5752,24.0,0.596,2047.0
+2578,202514,Defiance College,Defiance,OH,Bachelor's Degree,44826,11689100,0.6521,19.0,0.3305,236.0
+2583,202763,The University of Findlay,Findlay,OH,Bachelor's Degree,44826,11689100,0.7589,20.0,0.5272,569.0
+2592,203085,Heidelberg University,Tiffin,OH,Bachelor's Degree,44826,11689100,0.789,19.0,0.3913,345.0
+2593,203128,Hiram College,Hiram,OH,Bachelor's Degree,44826,11689100,0.5762,20.0,0.5235,298.0
+2599,203368,John Carroll University,University Heights,OH,Bachelor's Degree,44826,11689100,0.8202,22.0,0.6882,680.0
+2608,203517,Kent State University at Kent,Kent,OH,Bachelor's Degree,44826,11689100,0.8476,21.0,0.3739,4044.0
+2610,203535,Kenyon College,Gambier,OH,Bachelor's Degree,44826,11689100,0.2563,28.0,0.8543,446.0
+2612,203580,Lake Erie College,Painesville,OH,Bachelor's Degree,44826,11689100,0.5631,19.0,0.4066,273.0
+2619,203757,Lourdes University,Sylvania,OH,Bachelor's Degree,44826,11689100,0.6922,18.0,0.2165,254.0
+2620,203775,Malone University,Canton,OH,Bachelor's Degree,44826,11689100,0.6884,19.0,0.4716,352.0
+2621,203845,Marietta College,Marietta,OH,Bachelor's Degree,44826,11689100,0.7202,21.0,0.4158,392.0
+2628,204024,Miami University-Oxford,Oxford,OH,Bachelor's Degree,44826,11689100,0.6549,26.0,0.6771,3716.0
+2631,204176,Mount Carmel College of Nursing,Columbus,OH,Bachelor's Degree,44826,11689100,0.8171,19.0,0.5488,82.0
+2632,204185,University of Mount Union,Alliance,OH,Bachelor's Degree,44826,11689100,0.7501,21.0,0.5363,647.0
+2633,204194,Mount Vernon Nazarene University,Mount Vernon,OH,Bachelor's Degree,44826,11689100,0.7762,20.0,0.4775,289.0
+2636,204264,Muskingum University,New Concord,OH,Bachelor's Degree,44826,11689100,0.739,18.0,0.3623,403.0
+2642,204468,Notre Dame College,Cleveland,OH,Bachelor's Degree,44826,11689100,0.9127,17.0,0.3029,383.0
+2645,204501,Oberlin College,Oberlin,OH,Bachelor's Degree,44826,11689100,0.2878,29.0,0.747,759.0
+2647,204617,Ohio Dominican University,Columbus,OH,Bachelor's Degree,44826,11689100,0.8085,19.0,0.3985,266.0
+2648,204635,Ohio Northern University,Ada,OH,Bachelor's Degree,44826,11689100,0.6905,23.0,0.5522,460.0
+2658,204796,Ohio State University-Main Campus,Columbus,OH,Bachelor's Degree,44826,11689100,0.4938,27.0,0.5886,7204.0
+2663,204857,Ohio University-Main Campus,Athens,OH,Bachelor's Degree,44826,11689100,0.7442,22.0,0.4534,3864.0
+2668,204936,Otterbein University,Westerville,OH,Bachelor's Degree,44826,11689100,0.7532,22.0,0.517,559.0
+2686,205957,Franciscan University of Steubenville,Steubenville,OH,Bachelor's Degree,44826,11689100,0.7888,23.0,0.6962,395.0
+2691,206084,University of Toledo,Toledo,OH,Bachelor's Degree,44826,11689100,0.932,20.0,0.2445,3223.0
+2698,206330,Urbana University,Urbana,OH,Bachelor's Degree,44826,11689100,0.9129,18.0,0.193,171.0
+2699,206349,Ursuline College,Pepper Pike,OH,Bachelor's Degree,44826,11689100,0.8797,19.0,0.3182,88.0
+2703,206491,Wilberforce University,Wilberforce,OH,Bachelor's Degree,44826,11689100,0.5514,14.0,0.0882,136.0
+2704,206507,Wilmington College,Wilmington,OH,Bachelor's Degree,44826,11689100,0.9295,19.0,0.4406,286.0
+2707,206589,The College of Wooster,Wooster,OH,Bachelor's Degree,44826,11689100,0.5529,25.0,0.718,571.0
+2708,206604,Wright State University-Main Campus,Dayton,OH,Bachelor's Degree,44826,11689100,0.9597,19.0,0.1954,2405.0
+2709,206613,Wright State University-Lake Campus,Celina,OH,Bachelor's Degree,44826,11689100,0.9896,18.0,0.2233,103.0
+2710,206622,Xavier University,Cincinnati,OH,Bachelor's Degree,44826,11689100,0.7158,22.0,0.6641,1057.0
+2711,206695,Youngstown State University,Youngstown,OH,Bachelor's Degree,44826,11689100,0.711,18.0,0.1296,1936.0
+2712,206817,Bacone College,Muskogee,OK,Bachelor's Degree,69899,3956971,0.4205,15.0,0.0316,158.0
+2713,206835,Oklahoma Wesleyan University,Bartlesville,OK,Bachelor's Degree,69899,3956971,0.9474,18.0,0.3088,136.0
+2720,206941,University of Central Oklahoma,Edmond,OK,Bachelor's Degree,69899,3956971,0.6991,19.0,0.134,1865.0
+2722,207041,East Central University,Ada,OK,Bachelor's Degree,69899,3956971,0.46,18.0,0.2007,603.0
+2727,207157,Randall University,Moore,OK,Bachelor's Degree,69899,3956971,0.51,15.0,0.1132,53.0
+2731,207263,Northeastern State University,Tahlequah,OK,Bachelor's Degree,69899,3956971,0.9275,19.0,0.1314,883.0
+2735,207306,Northwestern Oklahoma State University,Alva,OK,Bachelor's Degree,69899,3956971,0.4814,18.0,0.1365,381.0
+2737,207324,Oklahoma Christian University,Edmond,OK,Bachelor's Degree,69899,3956971,0.5911,21.0,0.408,424.0
+2739,207351,Oklahoma Panhandle State University,Goodwell,OK,Bachelor's Degree,69899,3956971,0.683,16.0,0.2857,105.0
+2740,207388,Oklahoma State University-Main Campus,Stillwater,OK,Bachelor's Degree,69899,3956971,0.7513,22.0,0.3891,4151.0
+2742,207403,Oklahoma Baptist University,Shawnee,OK,Bachelor's Degree,69899,3956971,0.6103,20.0,0.4147,504.0
+2744,207458,Oklahoma City University,Oklahoma City,OK,Bachelor's Degree,69899,3956971,0.7017,22.0,0.5252,318.0
+2745,207500,University of Oklahoma-Norman Campus,Norman,OK,Bachelor's Degree,69899,3956971,0.7764,24.0,0.4165,4058.0
+2747,207582,Oral Roberts University,Tulsa,OK,Bachelor's Degree,69899,3956971,0.6404,19.0,0.486,465.0
+2748,207661,Rogers State University,Claremore,OK,Bachelor's Degree,69899,3956971,0.8184,16.0,0.1818,231.0
+2751,207722,University of Science and Arts of Oklahoma,Chickasha,OK,Bachelor's Degree,69899,3956971,0.6601,19.0,0.2909,165.0
+2754,207847,Southeastern Oklahoma State University,Durant,OK,Bachelor's Degree,69899,3956971,0.7222,18.0,0.1775,569.0
+2755,207856,Southwestern Christian University,Bethany,OK,Bachelor's Degree,69899,3956971,0.4818,17.0,0.2308,78.0
+2756,207865,Southwestern Oklahoma State University,Weatherford,OK,Bachelor's Degree,69899,3956971,0.9155,18.0,0.2089,761.0
+2759,207971,University of Tulsa,Tulsa,OK,Bachelor's Degree,69899,3956971,0.4397,26.0,0.5389,796.0
+2772,208488,Concordia University-Portland,Portland,OR,Bachelor's Degree,98379,4217737,0.5056,19.0,0.3211,246.0
+2775,208646,Eastern Oregon University,La Grande,OR,Bachelor's Degree,98379,4217737,0.9728,18.0,0.2211,380.0
+2777,208822,George Fox University,Newberg,OR,Bachelor's Degree,98379,4217737,0.7661,21.0,0.568,419.0
+2781,209065,Linfield University-McMinnville Campus,McMinnville,OR,Bachelor's Degree,98379,4217737,0.8391,20.0,0.551,441.0
+2790,209409,Bushnell University,Eugene,OR,Bachelor's Degree,98379,4217737,0.6802,19.0,0.4348,69.0
+2792,209506,Oregon Institute of Technology,Klamath Falls,OR,Bachelor's Degree,98379,4217737,0.5696,19.0,0.2108,389.0
+2794,209542,Oregon State University,Corvallis,OR,Bachelor's Degree,98379,4217737,0.7836,21.0,0.3677,3321.0
+2795,209551,University of Oregon,Eugene,OR,Bachelor's Degree,98379,4217737,0.7422,22.0,0.5283,3960.0
+2797,209612,Pacific University,Forest Grove,OR,Bachelor's Degree,98379,4217737,0.7903,21.0,0.5674,460.0
+2804,209807,Portland State University,Portland,OR,Bachelor's Degree,98379,4217737,0.8568,19.0,0.2132,1346.0
+2806,209922,Reed College,Portland,OR,Bachelor's Degree,98379,4217737,0.3499,29.0,0.6813,320.0
+2809,210146,Southern Oregon University,Ashland,OR,Bachelor's Degree,98379,4217737,0.9523,19.0,0.2153,641.0
+2814,210331,Corban University,Salem,OR,Bachelor's Degree,98379,4217737,0.3053,21.0,0.5688,218.0
+2817,210401,Willamette University,Salem,OR,Bachelor's Degree,98379,4217737,0.7794,25.0,0.6552,525.0
+2818,210429,Western Oregon University,Monmouth,OR,Bachelor's Degree,98379,4217737,0.8777,17.0,0.2034,998.0
+2821,210492,Bryn Athyn College of the New Church,Bryn Athyn,PA,Bachelor's Degree,46054,12801989,0.4214,18.0,0.36,50.0
+2828,210739,DeSales University,Center Valley,PA,Bachelor's Degree,46054,12801989,0.7761,21.0,0.6195,389.0
+2830,210775,Alvernia University,Reading,PA,Bachelor's Degree,46054,12801989,0.7425,19.0,0.4185,411.0
+2836,211088,Arcadia University,Glenside,PA,Bachelor's Degree,46054,12801989,0.5926,22.0,0.6401,678.0
+2839,211158,Bloomsburg University of Pennsylvania,Bloomsburg,PA,Bachelor's Degree,46054,12801989,0.8772,18.0,0.3754,1910.0
+2840,211273,Bryn Mawr College,Bryn Mawr,PA,Bachelor's Degree,46054,12801989,0.3851,28.0,0.7918,365.0
+2841,211291,Bucknell University,Lewisburg,PA,Bachelor's Degree,46054,12801989,0.2478,28.0,0.8459,915.0
+2847,211361,California University of Pennsylvania,California,PA,Bachelor's Degree,46054,12801989,0.8493,17.0,0.418,634.0
+2848,211431,Carlow University,Pittsburgh,PA,Bachelor's Degree,46054,12801989,0.8074,19.0,0.3798,208.0
+2849,211440,Carnegie Mellon University,Pittsburgh,PA,Bachelor's Degree,46054,12801989,0.2372,31.0,0.7491,1407.0
+2850,211468,Cedar Crest College,Allentown,PA,Bachelor's Degree,46054,12801989,0.675,19.0,0.3724,145.0
+2853,211583,Chestnut Hill College,Philadelphia,PA,Bachelor's Degree,46054,12801989,0.9259,17.0,0.5,212.0
+2856,211644,Clarion University of Pennsylvania,Clarion,PA,Bachelor's Degree,46054,12801989,0.9607,17.0,0.4158,938.0
+2861,211981,Delaware Valley University,Doylestown,PA,Bachelor's Degree,46054,12801989,0.687,18.0,0.4642,461.0
+2865,212054,Drexel University,Philadelphia,PA,Bachelor's Degree,46054,12801989,0.7474,25.0,0.2534,3011.0
+2866,212106,Duquesne University,Pittsburgh,PA,Bachelor's Degree,46054,12801989,0.7563,23.0,0.6789,1305.0
+2867,212115,East Stroudsburg University of Pennsylvania,East Stroudsburg,PA,Bachelor's Degree,46054,12801989,0.8404,18.0,0.3466,1229.0
+2868,212133,Eastern University,Saint Davids,PA,Bachelor's Degree,46054,12801989,0.5223,18.0,0.5683,366.0
+2869,212160,Edinboro University of Pennsylvania,Edinboro,PA,Bachelor's Degree,46054,12801989,0.957,17.0,0.3137,953.0
+2870,212197,Elizabethtown College,Elizabethtown,PA,Bachelor's Degree,46054,12801989,0.7072,23.0,0.6813,502.0
+2887,212601,Gannon University,Erie,PA,Bachelor's Degree,46054,12801989,0.7577,20.0,0.5202,594.0
+2888,212656,Geneva College,Beaver Falls,PA,Bachelor's Degree,46054,12801989,0.733,21.0,0.5752,339.0
+2892,212805,Grove City College,Grove City,PA,Bachelor's Degree,46054,12801989,0.8099,24.0,0.7075,670.0
+2893,212832,Gwynedd Mercy University,Gwynedd Valley,PA,Bachelor's Degree,46054,12801989,0.685,18.0,0.4556,90.0
+2896,212911,Haverford College,Haverford,PA,Bachelor's Degree,46054,12801989,0.2457,31.0,0.8805,318.0
+2900,213011,Immaculata University,Immaculata,PA,Bachelor's Degree,46054,12801989,0.7861,20.0,0.6214,243.0
+2901,213020,Indiana University of Pennsylvania-Main Campus,Indiana,PA,Bachelor's Degree,46054,12801989,0.8834,17.0,0.3955,2915.0
+2907,213303,Keystone College,La Plume,PA,Bachelor's Degree,46054,12801989,0.978,16.0,0.3711,256.0
+2910,213349,Kutztown University of Pennsylvania,Kutztown,PA,Bachelor's Degree,46054,12801989,0.8225,17.0,0.3884,1990.0
+2911,213358,La Roche University,Pittsburgh,PA,Bachelor's Degree,46054,12801989,0.9546,17.0,0.3868,243.0
+2912,213367,La Salle University,Philadelphia,PA,Bachelor's Degree,46054,12801989,0.7492,18.0,0.6149,857.0
+2914,213385,Lafayette College,Easton,PA,Bachelor's Degree,46054,12801989,0.3025,27.0,0.8264,628.0
+2915,213400,Lancaster Bible College,Lancaster,PA,Bachelor's Degree,46054,12801989,0.676,19.0,0.4496,129.0
+2923,213543,Lehigh University,Bethlehem,PA,Bachelor's Degree,46054,12801989,0.3041,29.0,0.7245,1216.0
+2927,213598,Lincoln University,Lincoln University,PA,Bachelor's Degree,46054,12801989,0.9138,15.0,0.2886,447.0
+2928,213613,Lock Haven University,Lock Haven,PA,Bachelor's Degree,46054,12801989,0.9174,17.0,0.3676,1099.0
+2932,213668,Lycoming College,Williamsport,PA,Bachelor's Degree,46054,12801989,0.7122,20.0,0.5514,321.0
+2934,213783,Mansfield University of Pennsylvania,Mansfield,PA,Bachelor's Degree,46054,12801989,0.8853,17.0,0.3662,456.0
+2939,213996,Messiah University,Mechanicsburg,PA,Bachelor's Degree,46054,12801989,0.7898,21.0,0.7387,708.0
+2941,214041,Millersville University of Pennsylvania,Millersville,PA,Bachelor's Degree,46054,12801989,0.7305,19.0,0.3652,1298.0
+2942,214069,Misericordia University,Dallas,PA,Bachelor's Degree,46054,12801989,0.7147,22.0,0.6458,511.0
+2945,214157,Moravian University,Bethlehem,PA,Bachelor's Degree,46054,12801989,0.7457,19.0,0.6373,375.0
+2946,214166,Mount Aloysius College,Cresson,PA,Bachelor's Degree,46054,12801989,0.7286,17.0,0.2804,189.0
+2948,214272,Neumann University,Aston,PA,Bachelor's Degree,46054,12801989,0.9081,17.0,0.3223,574.0
+2955,214591,Pennsylvania State University-Penn State Erie-Behrend College,Erie,PA,Bachelor's Degree,46054,12801989,0.8708,20.0,0.4454,1026.0
+2958,214625,Pennsylvania State University-Penn State New Kensington,New Kensington,PA,Bachelor's Degree,46054,12801989,0.7913,19.0,0.3383,133.0
+2959,214634,Pennsylvania State University-Penn State Shenango,Sharon,PA,Bachelor's Degree,46054,12801989,0.6818,19.0,0.2727,44.0
+2960,214643,Pennsylvania State University-Penn State Wilkes-Barre,Lehman,PA,Bachelor's Degree,46054,12801989,0.8759,18.0,0.3611,144.0
+2961,214652,Pennsylvania State University-Penn State Scranton,Dunmore,PA,Bachelor's Degree,46054,12801989,0.8063,17.0,0.1948,231.0
+2962,214670,Pennsylvania State University-Penn State Lehigh Valley,Center Valley,PA,Bachelor's Degree,46054,12801989,0.8636,19.0,0.4387,212.0
+2963,214689,Pennsylvania State University-Penn State Altoona,Altoona,PA,Bachelor's Degree,46054,12801989,0.8939,20.0,0.4444,1278.0
+2964,214698,Pennsylvania State University-Penn State Beaver,Monaca,PA,Bachelor's Degree,46054,12801989,0.8234,18.0,0.2687,201.0
+2965,214704,Pennsylvania State University-Penn State Berks,Reading,PA,Bachelor's Degree,46054,12801989,0.8487,18.0,0.3876,756.0
+2966,214713,Pennsylvania State University-Penn State Harrisburg,Middletown,PA,Bachelor's Degree,46054,12801989,0.8487,20.0,0.4048,620.0
+2967,214731,Pennsylvania State University-Penn State Brandywine,Media,PA,Bachelor's Degree,46054,12801989,0.8308,18.0,0.2654,358.0
+2969,214759,Pennsylvania State University-Penn State Fayette- Eberly,Lemont Furnace,PA,Bachelor's Degree,46054,12801989,0.8088,17.0,0.2336,137.0
+2970,214768,Pennsylvania State University-Penn State Hazleton,Hazleton,PA,Bachelor's Degree,46054,12801989,0.8388,17.0,0.3063,395.0
+2971,214777,Pennsylvania State University-Main Campus,University Park,PA,Bachelor's Degree,46054,12801989,0.5132,25.0,0.6644,7602.0
+2972,214786,Pennsylvania State University-Penn State Greater Allegheny,McKeesport,PA,Bachelor's Degree,46054,12801989,0.7879,20.0,0.2642,193.0
+2973,214795,Pennsylvania State University-Penn State Mont Alto,Mont Alto,PA,Bachelor's Degree,46054,12801989,0.7936,17.0,0.3472,216.0
+2974,214801,Pennsylvania State University-Penn State Abington,Abington,PA,Bachelor's Degree,46054,12801989,0.8239,19.0,0.2955,660.0
+2975,214810,Pennsylvania State University-Penn State Schuylkill,Schuylkill Haven,PA,Bachelor's Degree,46054,12801989,0.7304,16.0,0.2624,202.0
+2976,214829,Pennsylvania State University-Penn State York,York,PA,Bachelor's Degree,46054,12801989,0.8561,21.0,0.3096,281.0
+2984,215062,University of Pennsylvania,Philadelphia,PA,Bachelor's Degree,46054,12801989,0.1016,31.0,0.8521,2394.0
+2985,215105,The University of the Arts,Philadelphia,PA,Bachelor's Degree,46054,12801989,0.7369,19.0,0.5343,408.0
+2986,215114,Cairn University-Langhorne,Langhorne,PA,Bachelor's Degree,46054,12801989,0.9872,18.0,0.2847,144.0
+2988,215132,University of the Sciences,Philadelphia,PA,Bachelor's Degree,46054,12801989,0.58,22.0,0.7178,482.0
+2990,215266,University of Pittsburgh-Bradford,Bradford,PA,Bachelor's Degree,46054,12801989,0.63,18.0,0.3729,303.0
+2991,215275,University of Pittsburgh-Greensburg,Greensburg,PA,Bachelor's Degree,46054,12801989,0.7148,20.0,0.2443,393.0
+2992,215284,University of Pittsburgh-Johnstown,Johnstown,PA,Bachelor's Degree,46054,12801989,0.8102,20.0,0.3298,764.0
+2993,215293,University of Pittsburgh-Pittsburgh Campus,Pittsburgh,PA,Bachelor's Degree,46054,12801989,0.5389,26.0,0.6512,3632.0
+3000,215442,Point Park University,Pittsburgh,PA,Bachelor's Degree,46054,12801989,0.7053,19.0,0.5194,516.0
+3008,215655,Robert Morris University,Moon Township,PA,Bachelor's Degree,46054,12801989,0.7766,20.0,0.529,845.0
+3010,215691,Rosemont College,Rosemont,PA,Bachelor's Degree,46054,12801989,0.7063,15.0,0.4933,75.0
+3011,215743,Saint Francis University,Loretto,PA,Bachelor's Degree,46054,12801989,0.7412,21.0,0.5972,427.0
+3013,215798,Saint Vincent College,Latrobe,PA,Bachelor's Degree,46054,12801989,0.6981,20.0,0.6873,339.0
+3016,215929,University of Scranton,Scranton,PA,Bachelor's Degree,46054,12801989,0.7221,22.0,0.77,961.0
+3021,216010,Shippensburg University of Pennsylvania,Shippensburg,PA,Bachelor's Degree,46054,12801989,0.8914,18.0,0.3514,1480.0
+3022,216038,Slippery Rock University of Pennsylvania,Slippery Rock,PA,Bachelor's Degree,46054,12801989,0.6836,19.0,0.4977,1527.0
+3029,216287,Swarthmore College,Swarthmore,PA,Bachelor's Degree,46054,12801989,0.1248,30.0,0.873,378.0
+3034,216357,Thiel College,Greenville,PA,Bachelor's Degree,46054,12801989,0.6149,17.0,0.3624,298.0
+3043,216542,University of Valley Forge,Phoenixville,PA,Bachelor's Degree,46054,12801989,0.9454,18.0,0.4236,144.0
+3046,216597,Villanova University,Villanova,PA,Bachelor's Degree,46054,12801989,0.4789,29.0,0.8713,1639.0
+3049,216694,Waynesburg University,Waynesburg,PA,Bachelor's Degree,46054,12801989,0.8561,20.0,0.6,350.0
+3051,216764,West Chester University of Pennsylvania,West Chester,PA,Bachelor's Degree,46054,12801989,0.5868,21.0,0.5024,2325.0
+3054,216807,Westminster College,New Wilmington,PA,Bachelor's Degree,46054,12801989,0.7277,20.0,0.6012,326.0
+3057,216852,Widener University,Chester,PA,Bachelor's Degree,46054,12801989,0.6799,21.0,0.5099,710.0
+3059,217013,Wilson College,Chambersburg,PA,Bachelor's Degree,46054,12801989,0.4523,18.0,0.3467,75.0
+3061,217059,York College of Pennsylvania,York,PA,Bachelor's Degree,46054,12801989,0.4302,20.0,0.4188,1127.0
+3063,217156,Brown University,Providence,RI,Bachelor's Degree,1545,1059361,0.0949,31.0,0.8467,1533.0
+3069,217420,Rhode Island College,Providence,RI,Bachelor's Degree,1545,1059361,0.7162,16.0,0.2004,1038.0
+3071,217484,University of Rhode Island,Kingston,RI,Bachelor's Degree,1545,1059361,0.7355,22.0,0.4901,2979.0
+3072,217493,Rhode Island School of Design,Providence,RI,Bachelor's Degree,1545,1059361,0.372,25.0,0.6998,433.0
+3080,217633,Anderson University,Anderson,SC,Bachelor's Degree,32020,5148714,0.5494,21.0,0.5509,530.0
+3081,217688,Charleston Southern University,Charleston,SC,Bachelor's Degree,32020,5148714,0.6021,20.0,0.2873,623.0
+3084,217749,Bob Jones University,Greenville,SC,Bachelor's Degree,32020,5148714,0.8202,19.0,0.5301,664.0
+3087,217819,College of Charleston,Charleston,SC,Bachelor's Degree,32020,5148714,0.7715,23.0,0.6171,2126.0
+3090,217864,Citadel Military College of South Carolina,Charleston,SC,Bachelor's Degree,32020,5148714,0.7652,21.0,0.6274,671.0
+3091,217873,Claflin University,Orangeburg,SC,Bachelor's Degree,32020,5148714,0.4133,15.0,0.3977,440.0
+3092,217882,Clemson University,Clemson,SC,Bachelor's Degree,32020,5148714,0.5127,27.0,0.5931,3433.0
+3094,217907,Coker University,Hartsville,SC,Bachelor's Degree,32020,5148714,0.4966,18.0,0.2781,187.0
+3095,217925,Columbia International University,Columbia,SC,Bachelor's Degree,32020,5148714,0.34,20.0,0.604,101.0
+3096,217934,Columbia College,Columbia,SC,Bachelor's Degree,32020,5148714,0.8913,18.0,0.4332,187.0
+3097,217961,Converse University,Spartanburg,SC,Bachelor's Degree,32020,5148714,0.5775,20.0,0.4892,186.0
+3099,217998,Erskine College,Due West,SC,Bachelor's Degree,32020,5148714,0.6428,18.0,0.5547,137.0
+3102,218061,Francis Marion University,Florence,SC,Bachelor's Degree,32020,5148714,0.5887,17.0,0.1771,813.0
+3108,218229,Lander University,Greenwood,SC,Bachelor's Degree,32020,5148714,0.6197,17.0,0.2275,567.0
+3109,218238,Limestone University,Gaffney,SC,Bachelor's Degree,32020,5148714,0.4632,16.0,0.2239,259.0
+3113,218414,Newberry College,Newberry,SC,Bachelor's Degree,32020,5148714,0.5606,18.0,0.2773,220.0
+3114,218441,North Greenville University,Tigerville,SC,Bachelor's Degree,32020,5148714,0.5797,20.0,0.4069,521.0
+3117,218539,Presbyterian College,Clinton,SC,Bachelor's Degree,32020,5148714,0.6231,20.0,0.6095,274.0
+3118,218645,University of South Carolina Aiken,Aiken,SC,Bachelor's Degree,32020,5148714,0.5716,18.0,0.2029,488.0
+3119,218654,University of South Carolina Beaufort,Bluffton,SC,Bachelor's Degree,32020,5148714,0.6274,17.0,0.1722,389.0
+3120,218663,University of South Carolina-Columbia,Columbia,SC,Bachelor's Degree,32020,5148714,0.6453,25.0,0.6245,4578.0
+3125,218724,Coastal Carolina University,Conway,SC,Bachelor's Degree,32020,5148714,0.5965,20.0,0.2773,2196.0
+3126,218733,South Carolina State University,Orangeburg,SC,Bachelor's Degree,32020,5148714,0.9489,14.0,0.1586,662.0
+3127,218742,University of South Carolina-Upstate,Spartanburg,SC,Bachelor's Degree,32020,5148714,0.5604,18.0,0.2948,770.0
+3137,218964,Winthrop University,Rock Hill,SC,Bachelor's Degree,32020,5148714,0.671,20.0,0.3891,1141.0
+3138,218973,Wofford College,Spartanburg,SC,Bachelor's Degree,32020,5148714,0.7181,23.0,0.7666,437.0
+3140,219000,Augustana University,Sioux Falls,SD,Bachelor's Degree,77116,884659,0.6507,23.0,0.5333,405.0
+3142,219046,Black Hills State University,Spearfish,SD,Bachelor's Degree,77116,884659,0.8404,19.0,0.1393,481.0
+3143,219082,Dakota State University,Madison,SD,Bachelor's Degree,77116,884659,0.8125,20.0,0.2261,283.0
+3144,219091,Dakota Wesleyan University,Mitchell,SD,Bachelor's Degree,77116,884659,0.7438,18.0,0.4717,159.0
+3149,219198,Mount Marty University,Yankton,SD,Bachelor's Degree,77116,884659,0.7255,19.0,0.4087,115.0
+3153,219259,Northern State University,Aberdeen,SD,Bachelor's Degree,77116,884659,0.7207,19.0,0.2667,345.0
+3155,219295,Presentation College,Aberdeen,SD,Bachelor's Degree,77116,884659,0.623,18.0,0.2062,97.0
+3157,219347,South Dakota School of Mines and Technology,Rapid City,SD,Bachelor's Degree,77116,884659,0.8425,24.0,0.1611,447.0
+3158,219356,South Dakota State University,Brookings,SD,Bachelor's Degree,77116,884659,0.917,20.0,0.3641,2071.0
+3160,219383,University of Sioux Falls,Sioux Falls,SD,Bachelor's Degree,77116,884659,0.9215,20.0,0.2932,266.0
+3165,219471,University of South Dakota,Vermillion,SD,Bachelor's Degree,77116,884659,0.7354,20.0,0.4011,1219.0
+3170,219602,Austin Peay State University,Clarksville,TN,Bachelor's Degree,42144,6829174,0.8771,19.0,0.2298,1162.0
+3171,219639,Baptist Health Sciences University,Memphis,TN,Bachelor's Degree,42144,6829174,0.554,23.0,0.2879,66.0
+3172,219709,Belmont University,Nashville,TN,Bachelor's Degree,42144,6829174,0.8029,23.0,0.6209,1253.0
+3173,219718,Bethel University,McKenzie,TN,Bachelor's Degree,42144,6829174,0.8399,17.0,0.138,681.0
+3174,219790,Bryan College-Dayton,Dayton,TN,Bachelor's Degree,42144,6829174,0.4553,19.0,0.4154,195.0
+3175,219806,Carson-Newman University,Jefferson City,TN,Bachelor's Degree,42144,6829174,0.5883,19.0,0.4018,453.0
+3177,219833,Christian Brothers University,Memphis,TN,Bachelor's Degree,42144,6829174,0.4597,21.0,0.3386,251.0
+3183,219949,Cumberland University,Lebanon,TN,Bachelor's Degree,42144,6829174,0.4906,19.0,0.2642,212.0
+3184,219976,Lipscomb University,Nashville,TN,Bachelor's Degree,42144,6829174,0.6077,23.0,0.5411,669.0
+3188,220075,East Tennessee State University,Johnson City,TN,Bachelor's Degree,42144,6829174,0.7922,20.0,0.2337,2028.0
+3192,220181,Fisk University,Nashville,TN,Bachelor's Degree,42144,6829174,0.8093,17.0,0.3736,174.0
+3194,220215,Freed-Hardeman University,Henderson,TN,Bachelor's Degree,42144,6829174,0.9185,21.0,0.5016,321.0
+3197,220312,Hiwassee College,Madisonville,TN,Bachelor's Degree,42144,6829174,0.5885,17.0,0.2143,14.0
+3202,220473,Johnson University,Knoxville,TN,Bachelor's Degree,42144,6829174,0.5779,19.0,0.4857,175.0
+3204,220516,King University,Bristol,TN,Bachelor's Degree,42144,6829174,0.4401,19.0,0.3363,223.0
+3206,220598,Lane College,Jackson,TN,Bachelor's Degree,42144,6829174,0.5454,14.0,0.1138,325.0
+3207,220604,Le Moyne-Owen College,Memphis,TN,Bachelor's Degree,42144,6829174,1.0,14.0,0.0229,175.0
+3208,220613,Lee University,Cleveland,TN,Bachelor's Degree,42144,6829174,0.8547,21.0,0.4019,846.0
+3209,220631,Lincoln Memorial University,Harrogate,TN,Bachelor's Degree,42144,6829174,0.7437,19.0,0.5477,199.0
+3212,220710,Maryville College,Maryville,TN,Bachelor's Degree,42144,6829174,0.6678,20.0,0.4537,313.0
+3218,220862,University of Memphis,Memphis,TN,Bachelor's Degree,42144,6829174,0.3978,19.0,0.222,2113.0
+3220,220978,Middle Tennessee State University,Murfreesboro,TN,Bachelor's Degree,42144,6829174,0.726,19.0,0.2143,3155.0
+3231,221351,Rhodes College,Memphis,TN,Bachelor's Degree,42144,6829174,0.4687,27.0,0.8156,553.0
+3247,221731,Tennessee Wesleyan University,Athens,TN,Bachelor's Degree,42144,6829174,0.6479,19.0,0.2523,218.0
+3248,221740,The University of Tennessee-Chattanooga,Chattanooga,TN,Bachelor's Degree,42144,6829174,0.7922,21.0,0.2638,2282.0
+3249,221759,The University of Tennessee-Knoxville,Knoxville,TN,Bachelor's Degree,42144,6829174,0.763,24.0,0.4856,4197.0
+3250,221768,The University of Tennessee-Martin,Martin,TN,Bachelor's Degree,42144,6829174,0.6965,20.0,0.2711,1313.0
+3253,221847,Tennessee Technological University,Cookeville,TN,Bachelor's Degree,42144,6829174,0.6832,21.0,0.2926,2044.0
+3254,221892,Trevecca Nazarene University,Nashville,TN,Bachelor's Degree,42144,6829174,0.7252,19.0,0.4267,232.0
+3256,221953,Tusculum University,Greeneville,TN,Bachelor's Degree,42144,6829174,0.6896,18.0,0.1726,336.0
+3257,221971,Union University,Jackson,TN,Bachelor's Degree,42144,6829174,0.6913,22.0,0.6524,443.0
+3258,221999,Vanderbilt University,Nashville,TN,Bachelor's Degree,42144,6829174,0.1168,32.0,0.8926,1601.0
+3262,222178,Abilene Christian University,Abilene,TX,Bachelor's Degree,268596,28995881,0.4992,22.0,0.5331,951.0
+3267,222831,Angelo State University,San Angelo,TX,Bachelor's Degree,268596,28995881,0.7672,18.0,0.2057,1371.0
+3271,222983,Austin College,Sherman,TX,Bachelor's Degree,268596,28995881,0.541,22.0,0.6558,308.0
+3278,223232,Baylor University,Waco,TX,Bachelor's Degree,268596,28995881,0.4367,25.0,0.6275,3251.0
+3290,224004,Concordia University Texas,Austin,TX,Bachelor's Degree,268596,28995881,0.8214,19.0,0.2746,244.0
+3293,224147,Texas A & M University-Corpus Christi,Corpus Christi,TX,Bachelor's Degree,268596,28995881,0.8377,17.0,0.1674,1780.0
+3295,224226,Dallas Baptist University,Dallas,TX,Bachelor's Degree,268596,28995881,0.4191,19.0,0.4179,469.0
+3296,224244,Dallas Christian College,Dallas,TX,Bachelor's Degree,268596,28995881,0.5092,15.0,0.1277,47.0
+3299,224323,University of Dallas,Irving,TX,Bachelor's Degree,268596,28995881,0.64,24.0,0.6097,351.0
+3301,224527,East Texas Baptist University,Marshall,TX,Bachelor's Degree,268596,28995881,0.5532,18.0,0.2571,350.0
+3302,224545,Texas A&M University-Texarkana,Texarkana,TX,Bachelor's Degree,268596,28995881,0.7087,19.0,0.1608,199.0
+3303,224554,Texas A & M University-Commerce,Commerce,TX,Bachelor's Degree,268596,28995881,0.4744,18.0,0.2448,825.0
+3317,225247,Hardin-Simmons University,Abilene,TX,Bachelor's Degree,268596,28995881,0.6,19.0,0.3588,393.0
+3320,225399,Houston Baptist University,Houston,TX,Bachelor's Degree,268596,28995881,0.3323,20.0,0.2802,514.0
+3323,225432,University of Houston-Downtown,Houston,TX,Bachelor's Degree,268596,28995881,0.7763,16.0,0.0389,1157.0
+3325,225511,University of Houston,Houston,TX,Bachelor's Degree,268596,28995881,0.5972,23.0,0.2961,3350.0
+3327,225548,Howard Payne University,Brownwood,TX,Bachelor's Degree,268596,28995881,0.8525,18.0,0.2784,291.0
+3328,225575,Huston-Tillotson University,Austin,TX,Bachelor's Degree,268596,28995881,0.4742,14.0,0.1553,206.0
+3329,225627,University of the Incarnate Word,San Antonio,TX,Bachelor's Degree,268596,28995881,0.9222,18.0,0.2586,901.0
+3336,226091,Lamar University,Beaumont,TX,Bachelor's Degree,268596,28995881,0.7911,18.0,0.0943,1697.0
+3341,226152,Texas A & M International University,Laredo,TX,Bachelor's Degree,268596,28995881,0.4801,16.0,0.2304,933.0
+3343,226231,LeTourneau University,Longview,TX,Bachelor's Degree,268596,28995881,0.4548,22.0,0.47,317.0
+3345,226383,Lubbock Christian University,Lubbock,TX,Bachelor's Degree,268596,28995881,0.9608,19.0,0.3248,314.0
+3347,226471,University of Mary Hardin-Baylor,Belton,TX,Bachelor's Degree,268596,28995881,0.804,20.0,0.3131,626.0
+3349,226587,McMurry University,Abilene,TX,Bachelor's Degree,268596,28995881,0.5334,16.0,0.2574,303.0
+3352,226833,Midwestern State University,Wichita Falls,TX,Bachelor's Degree,268596,28995881,0.76,19.0,0.2016,630.0
+3362,227216,University of North Texas,Denton,TX,Bachelor's Degree,268596,28995881,0.7015,21.0,0.2983,4362.0
+3369,227331,Our Lady of the Lake University,San Antonio,TX,Bachelor's Degree,268596,28995881,0.681,17.0,0.207,314.0
+3370,227368,The University of Texas Rio Grande Valley,Edinburg,TX,Bachelor's Degree,268596,28995881,0.8224,17.0,0.2127,2891.0
+3374,227429,Paul Quinn College,Dallas,TX,Bachelor's Degree,268596,28995881,0.5987,14.0,0.098,51.0
+3375,227526,Prairie View A & M University,Prairie View,TX,Bachelor's Degree,268596,28995881,0.8595,16.0,0.1157,1582.0
+3378,227757,Rice University,Houston,TX,Bachelor's Degree,268596,28995881,0.1596,32.0,0.8554,927.0
+3380,227845,Saint Edward's University,Austin,TX,Bachelor's Degree,268596,28995881,0.7745,23.0,0.5045,777.0
+3382,227863,University of St Thomas,Houston,TX,Bachelor's Degree,268596,28995881,0.7803,22.0,0.3358,265.0
+3383,227881,Sam Houston State University,Huntsville,TX,Bachelor's Degree,268596,28995881,0.7271,19.0,0.2991,2344.0
+3386,228042,Schreiner University,Kerrville,TX,Bachelor's Degree,268596,28995881,0.9014,19.0,0.3676,272.0
+3388,228149,St. Mary's University,San Antonio,TX,Bachelor's Degree,268596,28995881,0.552,20.0,0.4401,584.0
+3394,228246,Southern Methodist University,Dallas,TX,Bachelor's Degree,268596,28995881,0.4895,28.0,0.6765,1425.0
+3397,228325,Southwestern Assemblies of God University,Waxahachie,TX,Bachelor's Degree,268596,28995881,0.2796,18.0,0.2936,218.0
+3398,228343,Southwestern University,Georgetown,TX,Bachelor's Degree,268596,28995881,0.4422,23.0,0.6713,356.0
+3399,228431,Stephen F Austin State University,Nacogdoches,TX,Bachelor's Degree,268596,28995881,0.6157,19.0,0.3021,2347.0
+3400,228459,Texas State University,San Marcos,TX,Bachelor's Degree,268596,28995881,0.7084,21.0,0.2859,4354.0
+3401,228468,Southwestern Adventist University,Keene,TX,Bachelor's Degree,268596,28995881,0.4851,17.0,0.3644,118.0
+3403,228501,Sul Ross State University,Alpine,TX,Bachelor's Degree,268596,28995881,0.7997,15.0,0.1255,239.0
+3404,228529,Tarleton State University,Stephenville,TX,Bachelor's Degree,268596,28995881,0.4967,18.0,0.279,1649.0
+3411,228705,Texas A & M University-Kingsville,Kingsville,TX,Bachelor's Degree,268596,28995881,0.8237,17.0,0.2026,1229.0
+3412,228723,Texas A & M University-College Station,College Station,TX,Bachelor's Degree,268596,28995881,0.6664,25.0,0.5516,7685.0
+3413,228769,The University of Texas at Arlington,Arlington,TX,Bachelor's Degree,268596,28995881,0.6636,20.0,0.2302,2550.0
+3414,228778,The University of Texas at Austin,Austin,TX,Bachelor's Degree,268596,28995881,0.3924,26.0,0.6089,8034.0
+3415,228787,The University of Texas at Dallas,Richardson,TX,Bachelor's Degree,268596,28995881,0.6148,25.0,0.5447,1522.0
+3416,228796,The University of Texas at El Paso,El Paso,TX,Bachelor's Degree,268596,28995881,0.9999,17.0,0.1493,2712.0
+3417,228802,The University of Texas at Tyler,Tyler,TX,Bachelor's Degree,268596,28995881,0.6447,20.0,0.2628,624.0
+3419,228875,Texas Christian University,Fort Worth,TX,Bachelor's Degree,268596,28995881,0.4328,25.0,0.6923,1849.0
+3422,228981,Texas Lutheran University,Seguin,TX,Bachelor's Degree,268596,28995881,0.5072,19.0,0.3915,355.0
+3423,229018,The University of Texas Permian Basin,Odessa,TX,Bachelor's Degree,268596,28995881,0.8449,18.0,0.2342,363.0
+3424,229027,The University of Texas at San Antonio,San Antonio,TX,Bachelor's Degree,268596,28995881,0.7795,20.0,0.1764,4449.0
+3425,229063,Texas Southern University,Houston,TX,Bachelor's Degree,268596,28995881,0.509,15.0,0.0698,1218.0
+3426,229115,Texas Tech University,Lubbock,TX,Bachelor's Degree,268596,28995881,0.6306,23.0,0.3388,4487.0
+3427,229160,Texas Wesleyan University,Fort Worth,TX,Bachelor's Degree,268596,28995881,0.4595,19.0,0.2518,278.0
+3428,229179,Texas Woman's University,Denton,TX,Bachelor's Degree,268596,28995881,0.8592,17.0,0.22,1168.0
+3429,229267,Trinity University,San Antonio,TX,Bachelor's Degree,268596,28995881,0.4803,27.0,0.6454,595.0
+3439,229780,Wayland Baptist University,Plainview,TX,Bachelor's Degree,268596,28995881,0.9871,16.0,0.1067,356.0
+3441,229814,West Texas A & M University,Canyon,TX,Bachelor's Degree,268596,28995881,0.6689,18.0,0.2752,1199.0
+3447,230038,Brigham Young University,Provo,UT,Bachelor's Degree,84897,3205958,0.4805,27.0,0.218,3193.0
+3448,230047,Brigham Young University-Hawaii,Laie,HI,Bachelor's Degree,10932,1415872,0.3562,22.0,0.2422,322.0
+3461,230603,Southern Utah University,Cedar City,UT,Bachelor's Degree,84897,3205958,0.7214,20.0,0.2077,934.0
+3465,230728,Utah State University,Logan,UT,Bachelor's Degree,84897,3205958,0.9667,20.0,0.2052,2324.0
+3468,230764,University of Utah,Salt Lake City,UT,Bachelor's Degree,84897,3205958,0.8143,21.0,0.3248,2528.0
+3470,230807,Westminster College,Salt Lake City,UT,Bachelor's Degree,84897,3205958,0.9595,22.0,0.4451,474.0
+3472,230834,Castleton University,Castleton,VT,Bachelor's Degree,9616,623989,0.9677,18.0,0.4133,467.0
+3473,230852,Champlain College,Burlington,VT,Bachelor's Degree,9616,623989,0.6617,23.0,0.5389,592.0
+3477,230913,Northern Vermont University,Johnson,VT,Bachelor's Degree,9616,623989,0.9518,14.0,0.2568,549.0
+3479,230959,Middlebury College,Middlebury,VT,Bachelor's Degree,9616,623989,0.1744,29.0,0.8275,597.0
+3486,231086,Southern Vermont College,Bennington,VT,Bachelor's Degree,9616,623989,0.6313,17.0,0.4404,109.0
+3490,231174,University of Vermont,Burlington,VT,Bachelor's Degree,9616,623989,0.7085,25.0,0.6479,2349.0
+3493,231420,Averett University,Danville,VA,Bachelor's Degree,42775,8535519,0.6127,17.0,0.358,257.0
+3495,231554,Bluefield University,Bluefield,VA,Bachelor's Degree,42775,8535519,0.9327,17.0,0.2432,148.0
+3496,231581,Bridgewater College,Bridgewater,VA,Bachelor's Degree,42775,8535519,0.4927,20.0,0.5833,552.0
+3497,231624,William & Mary,Williamsburg,VA,Bachelor's Degree,42775,8535519,0.3446,28.0,0.8517,1463.0
+3498,231651,Regent University,Virginia Beach,VA,Bachelor's Degree,42775,8535519,0.8411,20.0,0.4541,196.0
+3501,231712,Christopher Newport University,Newport News,VA,Bachelor's Degree,42775,8535519,0.601,23.0,0.6279,1376.0
+3510,232025,Emory & Henry College,Emory,VA,Bachelor's Degree,42775,8535519,0.7637,18.0,0.4795,244.0
+3511,232043,Eastern Mennonite University,Harrisonburg,VA,Bachelor's Degree,42775,8535519,0.6171,18.0,0.5207,217.0
+3513,232089,Ferrum College,Ferrum,VA,Bachelor's Degree,42775,8535519,0.7295,15.0,0.1691,550.0
+3514,232186,George Mason University,Fairfax,VA,Bachelor's Degree,42775,8535519,0.7973,23.0,0.4737,2679.0
+3516,232256,Hampden-Sydney College,Hampden-Sydney,VA,Bachelor's Degree,42775,8535519,0.5479,21.0,0.6118,340.0
+3517,232265,Hampton University,Hampton,VA,Bachelor's Degree,42775,8535519,0.6905,20.0,0.4229,863.0
+3518,232308,Hollins University,Roanoke,VA,Bachelor's Degree,42775,8535519,0.6099,21.0,0.5156,128.0
+3520,232423,James Madison University,Harrisonburg,VA,Bachelor's Degree,42775,8535519,0.7257,23.0,0.6877,4319.0
+3522,232557,Liberty University,Lynchburg,VA,Bachelor's Degree,42775,8535519,0.2156,20.0,0.3482,3136.0
+3523,232566,Longwood University,Farmville,VA,Bachelor's Degree,42775,8535519,0.789,18.0,0.5369,1004.0
+3525,232609,University of Lynchburg,Lynchburg,VA,Bachelor's Degree,42775,8535519,0.6941,19.0,0.5184,515.0
+3527,232672,Mary Baldwin University,Staunton,VA,Bachelor's Degree,42775,8535519,0.9708,19.0,0.4298,242.0
+3528,232681,University of Mary Washington,Fredericksburg,VA,Bachelor's Degree,42775,8535519,0.8265,22.0,0.587,937.0
+3529,232706,Marymount University,Arlington,VA,Bachelor's Degree,42775,8535519,0.6848,19.0,0.4424,373.0
+3536,232937,Norfolk State University,Norfolk,VA,Bachelor's Degree,42775,8535519,0.7894,15.0,0.1458,919.0
+3538,232982,Old Dominion University,Norfolk,VA,Bachelor's Degree,42775,8535519,0.8311,18.0,0.2696,2578.0
+3545,233295,Randolph-Macon College,Ashland,VA,Bachelor's Degree,42775,8535519,0.6637,22.0,0.618,411.0
+3546,233301,Randolph College,Lynchburg,VA,Bachelor's Degree,42775,8535519,0.8053,19.0,0.5333,180.0
+3551,233374,University of Richmond,University of Richmond,VA,Bachelor's Degree,42775,8535519,0.3111,29.0,0.8205,780.0
+3553,233426,Roanoke College,Salem,VA,Bachelor's Degree,42775,8535519,0.7246,21.0,0.6077,543.0
+3555,233541,Shenandoah University,Winchester,VA,Bachelor's Degree,42775,8535519,0.8205,19.0,0.4573,457.0
+3556,233611,Southern Virginia University,Buena Vista,VA,Bachelor's Degree,42775,8535519,0.3829,19.0,0.2152,158.0
+3561,233718,Sweet Briar College,Sweet Briar,VA,Bachelor's Degree,42775,8535519,0.9495,22.0,0.4261,176.0
+3565,233897,University of Virginia's College at Wise,Wise,VA,Bachelor's Degree,42775,8535519,0.7687,17.0,0.248,367.0
+3569,234030,Virginia Commonwealth University,Richmond,VA,Bachelor's Degree,42775,8535519,0.7895,21.0,0.4448,3539.0
+3570,234076,University of Virginia-Main Campus,Charlottesville,VA,Bachelor's Degree,42775,8535519,0.2979,29.0,0.8897,3391.0
+3571,234085,Virginia Military Institute,Lexington,VA,Bachelor's Degree,42775,8535519,0.5284,23.0,0.6402,453.0
+3574,234155,Virginia State University,Petersburg,VA,Bachelor's Degree,42775,8535519,0.7698,15.0,0.1934,1241.0
+3575,234164,Virginia Union University,Richmond,VA,Bachelor's Degree,42775,8535519,0.4904,14.0,0.1979,389.0
+3576,234173,Virginia Wesleyan University,Virginia Beach,VA,Bachelor's Degree,42775,8535519,0.9254,17.0,0.471,431.0
+3577,234207,Washington and Lee University,Lexington,VA,Bachelor's Degree,42775,8535519,0.2388,30.0,0.9186,479.0
+3582,234827,Central Washington University,Ellensburg,WA,Bachelor's Degree,71298,7614893,0.8162,17.0,0.3051,1416.0
+3591,235097,Eastern Washington University,Cheney,WA,Bachelor's Degree,71298,7614893,0.8208,18.0,0.2384,1556.0
+3595,235167,The Evergreen State College,Olympia,WA,Bachelor's Degree,71298,7614893,0.9788,20.0,0.422,519.0
+3598,235316,Gonzaga University,Spokane,WA,Bachelor's Degree,71298,7614893,0.7349,25.0,0.7322,1094.0
+3612,236133,Northwest University,Kirkland,WA,Bachelor's Degree,71298,7614893,0.9515,19.0,0.4612,206.0
+3615,236230,Pacific Lutheran University,Tacoma,WA,Bachelor's Degree,71298,7614893,0.7555,22.0,0.6477,633.0
+3619,236452,Saint Martin's University,Lacey,WA,Bachelor's Degree,71298,7614893,0.9312,21.0,0.4891,229.0
+3622,236577,Seattle Pacific University,Seattle,WA,Bachelor's Degree,71298,7614893,0.8161,23.0,0.5306,784.0
+3623,236595,Seattle University,Seattle,WA,Bachelor's Degree,71298,7614893,0.7302,25.0,0.6104,901.0
+3632,236896,Walla Walla University,College Place,WA,Bachelor's Degree,71298,7614893,0.5644,20.0,0.2602,369.0
+3633,236939,Washington State University,Pullman,WA,Bachelor's Degree,71298,7614893,0.7964,20.0,0.3524,4279.0
+3634,236948,University of Washington-Seattle Campus,Seattle,WA,Bachelor's Degree,71298,7614893,0.5333,26.0,0.6652,6003.0
+3636,237011,Western Washington University,Bellingham,WA,Bachelor's Degree,71298,7614893,0.8238,22.0,0.3882,2661.0
+3638,237057,Whitman College,Walla Walla,WA,Bachelor's Degree,71298,7614893,0.4272,27.0,0.8084,381.0
+3641,237118,Alderson Broaddus University,Philippi,WV,Bachelor's Degree,24230,1792147,0.5369,19.0,0.2208,394.0
+3643,237136,Appalachian Bible College,Mount Hope,WV,Bachelor's Degree,24230,1792147,0.4752,19.0,0.3617,47.0
+3646,237181,Bethany College,Bethany,WV,Bachelor's Degree,24230,1792147,0.7021,17.0,0.283,265.0
+3647,237215,Bluefield State College,Bluefield,WV,Bachelor's Degree,24230,1792147,0.7686,17.0,0.1411,163.0
+3650,237312,University of Charleston,Charleston,WV,Bachelor's Degree,24230,1792147,0.5244,19.0,0.3792,240.0
+3652,237330,Concord University,Athens,WV,Bachelor's Degree,24230,1792147,0.8491,19.0,0.2082,562.0
+3653,237358,Davis & Elkins College,Elkins,WV,Bachelor's Degree,24230,1792147,0.5853,17.0,0.2887,194.0
+3654,237367,Fairmont State University,Fairmont,WV,Bachelor's Degree,24230,1792147,0.6479,18.0,0.1854,701.0
+3659,237525,Marshall University,Huntington,WV,Bachelor's Degree,24230,1792147,0.879,20.0,0.2661,1879.0
+3670,237792,Shepherd University,Shepherdstown,WV,Bachelor's Degree,24230,1792147,0.8987,19.0,0.2999,747.0
+3674,237899,West Virginia State University,Institute,WV,Bachelor's Degree,24230,1792147,0.9409,17.0,0.1162,284.0
+3676,237932,West Liberty University,West Liberty,WV,Bachelor's Degree,24230,1792147,0.721,18.0,0.3025,519.0
+3677,237950,West Virginia University Institute of Technology,Beckley,WV,Bachelor's Degree,24230,1792147,0.6146,18.0,0.2053,190.0
+3678,237969,West Virginia Wesleyan College,Buckhannon,WV,Bachelor's Degree,24230,1792147,0.7722,20.0,0.354,404.0
+3683,238032,West Virginia University,Morgantown,WV,Bachelor's Degree,24230,1792147,0.8581,21.0,0.3622,5102.0
+3684,238078,Wheeling University,Wheeling,WV,Bachelor's Degree,24230,1792147,0.6072,20.0,0.4739,268.0
+3687,238193,Alverno College,Milwaukee,WI,Bachelor's Degree,65496,5822434,0.7716,16.0,0.1895,190.0
+3689,238324,Bellin College,Green Bay,WI,Bachelor's Degree,65496,5822434,0.6905,22.0,0.6957,23.0
+3692,238430,Cardinal Stritch University,Milwaukee,WI,Bachelor's Degree,65496,5822434,0.7688,20.0,0.2756,156.0
+3693,238458,Carroll University,Waukesha,WI,Bachelor's Degree,65496,5822434,0.9397,21.0,0.5091,711.0
+3694,238476,Carthage College,Kenosha,WI,Bachelor's Degree,65496,5822434,0.7024,22.0,0.5864,718.0
+3696,238616,Concordia University-Wisconsin,Mequon,WI,Bachelor's Degree,65496,5822434,0.667,20.0,0.4324,592.0
+3697,238661,Edgewood College,Madison,WI,Bachelor's Degree,65496,5822434,0.7681,20.0,0.4265,340.0
+3701,238980,Lakeland University,Plymouth,WI,Bachelor's Degree,65496,5822434,0.9626,16.0,0.3756,197.0
+3705,239080,Marian University,Fond Du Lac,WI,Bachelor's Degree,65496,5822434,0.839,17.0,0.3559,281.0
+3706,239105,Marquette University,Milwaukee,WI,Bachelor's Degree,65496,5822434,0.7421,24.0,0.6668,1927.0
+3711,239318,Milwaukee School of Engineering,Milwaukee,WI,Bachelor's Degree,65496,5822434,0.6496,25.0,0.4876,484.0
+3713,239390,Mount Mary University,Milwaukee,WI,Bachelor's Degree,65496,5822434,0.5262,17.0,0.4,95.0
+3718,239512,Northland College,Ashland,WI,Bachelor's Degree,65496,5822434,0.5716,21.0,0.5055,182.0
+3719,239628,Ripon College,Ripon,WI,Bachelor's Degree,65496,5822434,0.6612,21.0,0.6127,204.0
+3721,239716,Saint Norbert College,De Pere,WI,Bachelor's Degree,65496,5822434,0.7769,22.0,0.6621,586.0
+3725,240107,Viterbo University,La Crosse,WI,Bachelor's Degree,65496,5822434,0.6615,21.0,0.4106,302.0
+3729,240189,University of Wisconsin-Whitewater,Whitewater,WI,Bachelor's Degree,65496,5822434,0.805,20.0,0.3118,2155.0
+3732,240268,University of Wisconsin-Eau Claire,Eau Claire,WI,Bachelor's Degree,65496,5822434,0.852,22.0,0.3685,2065.0
+3733,240277,University of Wisconsin-Green Bay,Green Bay,WI,Bachelor's Degree,65496,5822434,0.847,21.0,0.311,894.0
+3734,240329,University of Wisconsin-La Crosse,La Crosse,WI,Bachelor's Degree,65496,5822434,0.8,23.0,0.4153,1890.0
+3735,240338,Wisconsin Lutheran College,Milwaukee,WI,Bachelor's Degree,65496,5822434,0.9183,21.0,0.4333,240.0
+3736,240365,University of Wisconsin-Oshkosh,Oshkosh,WI,Bachelor's Degree,65496,5822434,0.8149,20.0,0.186,1812.0
+3737,240374,University of Wisconsin-Parkside,Kenosha,WI,Bachelor's Degree,65496,5822434,0.8159,18.0,0.169,645.0
+3739,240417,University of Wisconsin-Stout,Menomonie,WI,Bachelor's Degree,65496,5822434,0.9305,20.0,0.2677,1479.0
+3740,240426,University of Wisconsin-Superior,Superior,WI,Bachelor's Degree,65496,5822434,0.9404,19.0,0.1801,361.0
+3741,240444,University of Wisconsin-Madison,Madison,WI,Bachelor's Degree,65496,5822434,0.5761,27.0,0.6078,6275.0
+3742,240453,University of Wisconsin-Milwaukee,Milwaukee,WI,Bachelor's Degree,65496,5822434,0.8578,20.0,0.1816,3398.0
+3743,240462,University of Wisconsin-Platteville,Platteville,WI,Bachelor's Degree,65496,5822434,0.9431,21.0,0.2437,1666.0
+3744,240471,University of Wisconsin-River Falls,River Falls,WI,Bachelor's Degree,65496,5822434,0.8978,20.0,0.3481,1109.0
+3745,240480,University of Wisconsin-Stevens Point,Stevens Point,WI,Bachelor's Degree,65496,5822434,0.9007,20.0,0.3387,1630.0
+3755,240727,University of Wyoming,Laramie,WY,Bachelor's Degree,97813,578759,0.9566,22.0,0.2708,1566.0
+3828,243665,University of the Virgin Islands,Charlotte Amalie,VI,Bachelor's Degree,134,106977,0.9497,16.0,0.0476,294.0
+3829,243744,Stanford University,Stanford,CA,Bachelor's Degree,163695,39512223,0.0504,31.0,0.7486,1762.0
+3830,243780,Purdue University-Main Campus,West Lafayette,IN,Bachelor's Degree,36420,6732219,0.5897,25.0,0.5536,6425.0
+3926,262129,New College of Florida,Sarasota,FL,Bachelor's Degree,65758,21477737,0.6097,27.0,0.5247,223.0
+3992,366711,California State University-San Marcos,San Marcos,CA,Bachelor's Degree,163695,39512223,0.5404,18.0,0.158,1633.0
+4101,377555,University of Washington-Bothell Campus,Bothell,WA,Bachelor's Degree,71298,7614893,0.7873,19.0,0.4182,538.0
+4102,377564,University of Washington-Tacoma Campus,Tacoma,WA,Bachelor's Degree,71298,7614893,0.8256,16.0,0.4646,325.0
+4184,392840,Watkins College of Art Design & Film,Nashville,TN,Bachelor's Degree,42144,6829174,0.7009,18.0,0.1064,47.0
+4194,399911,Soka University of America,Aliso Viejo,CA,Bachelor's Degree,163695,39512223,0.4612,24.0,0.8544,103.0
+4233,407009,Arizona State University-West,Glendale,AZ,Bachelor's Degree,113990,7278717,0.7553,21.0,0.568,294.0
+4420,420574,Arizona State University-Polytechnic,Mesa,AZ,Bachelor's Degree,113990,7278717,0.795,21.0,0.4248,339.0
+4517,433660,Florida Gulf Coast University,Fort Myers,FL,Bachelor's Degree,65758,21477737,0.6058,22.0,0.2171,2667.0
+4558,436818,University of Connecticut-Waterbury Campus,Waterbury,CT,Bachelor's Degree,5543,3565278,0.596,17.0,0.4349,269.0
+4559,436827,University of Connecticut-Avery Point,Groton,CT,Bachelor's Degree,5543,3565278,0.6016,21.0,0.3294,252.0
+4560,436836,University of Connecticut-Stamford,Stamford,CT,Bachelor's Degree,5543,3565278,0.6196,19.0,0.3686,255.0
+4608,439701,The King's University,Southlake,TX,Bachelor's Degree,268596,28995881,0.9048,20.0,0.1667,18.0
+4631,440396,New Saint Andrews College,Moscow,ID,Bachelor's Degree,83569,1787065,1.0,21.0,0.3889,36.0
+4683,441982,Franklin W Olin College of Engineering,Needham,MA,Bachelor's Degree,10554,6892503,0.1098,32.0,0.7778,81.0
+4737,443410,DigiPen Institute of Technology,Redmond,WA,Bachelor's Degree,71298,7614893,0.4657,26.0,0.3103,174.0
+4809,445188,University of California-Merced,Merced,CA,Bachelor's Degree,163695,39512223,0.6069,20.0,0.3794,1489.0
+4839,446048,Ave Maria University,Ave Maria,FL,Bachelor's Degree,65758,21477737,0.4277,21.0,0.4646,254.0
+4849,446233,Ecclesia College,Springdale,AR,Bachelor's Degree,53179,3017804,0.5962,17.0,0.069,29.0
+4941,448840,University of South Florida-St Petersburg,St. Petersburg,FL,Bachelor's Degree,65758,21477737,0.4686,22.0,0.1848,682.0
+4943,448886,Arizona State University-Downtown Phoenix,Phoenix,AZ,Bachelor's Degree,113990,7278717,0.7848,21.0,0.5939,911.0
+4981,449764,Visible Music College,Memphis,TN,Bachelor's Degree,42144,6829174,0.9412,16.0,0.4091,22.0
+5092,454184,The King's College,New York,NY,Bachelor's Degree,54555,19453561,0.3958,24.0,0.4378,201.0
+5217,456959,University of Minnesota-Rochester,Rochester,MN,Bachelor's Degree,86936,5639632,0.2752,22.0,0.5143,140.0
+5505,462354,John Paul the Great Catholic University,Escondido,CA,Bachelor's Degree,163695,39512223,0.9508,22.0,0.5897,39.0
+5650,479956,Pennsylvania State University-World Campus,University Park,PA,Bachelor's Degree,46054,12801989,0.6062,21.0,0.1463,41.0
+5752,482149,Augusta University,Augusta,GA,Bachelor's Degree,59425,10617423,0.7366,20.0,0.0946,877.0
+5753,482158,Middle Georgia State University,Macon,GA,Bachelor's Degree,59425,10617423,0.625,15.0,0.113,354.0
+5784,482680,University of North Georgia,Dahlonega,GA,Bachelor's Degree,59425,10617423,0.9607,19.0,0.3174,1109.0
+5889,484905,University of North Texas at Dallas,Dallas,TX,Bachelor's Degree,268596,28995881,0.5842,16.0,0.193,171.0
+5984,486840,Kennesaw State University,Kennesaw,GA,Bachelor's Degree,59425,10617423,0.5855,21.0,0.1396,3826.0
+5989,486901,Milligan University,Milligan,TN,Bachelor's Degree,42144,6829174,0.6517,22.0,0.6322,174.0
+6021,487524,Husson University,Bangor,ME,Bachelor's Degree,35380,1344212,0.8049,18.0,0.2807,367.0
