@@ -9,9 +9,11 @@ This project aims to provide insights into the admissions test requirements and 
 Data Wrangling
 -----------------------------
 
-Merged datasets from the 2015/2016 to 2018/2019 academic years, resulting in a dataset with 1187 rows and 11 columns. Geographic and demographic data were added, requiring dimensionality reduction to 11 features.  The distribution of graduation rates is shown below:
+Merged datasets from the 2015/2016 to 2018/2019 academic years, resulting in a dataset with 1187 rows and 11 columns. Geographic and demographic data were added, requiring dimensionality reduction to 11 features.  The distribution of acceptance rates, graduation rates, and total graduating students are shown below:
 
-![Distribution of Features](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/graduationrate.png)
+![Admission Rate](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/Admissionrate.png)
+![Graduation Rate](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/graduationrate.png)
+![Graduating Students](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/graduating_student_frequency.png)
 
 Exploratory Data Analysis
 -----------------------------
