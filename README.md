@@ -11,6 +11,8 @@ Data Wrangling
 
 Merged datasets from the 2015/2016 to 2018/2019 academic years, resulting in a dataset with 1187 rows and 11 columns. Geographic and demographic data were added, requiring dimensionality reduction to 11 features.  The distribution of acceptance rates, graduation rates, and total graduating students are shown below:
 
+![Admission_rate](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/Admission_rate.png)
+
 ![Graduation Rate](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/graduationrate.png)
 
 ![Graduating Students](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/graduating_student_frequency.png)
@@ -29,7 +31,7 @@ The exploration began with an examination of Chicago State University's standing
 Pre-Processing and Modeling
 -----------------------------
 
-The modeling phase involved creating dummy variables, splitting the data into training and test sets (70:30 split), and evaluating five regression models. The top-performing models were identified as multiple linear regression and random forest, both explaining 64% of the variation in graduation rates. Further, hyperparameter tuning was conducted to enhance the performance of the random forest model.
+The modeling phase involved creating dummy variables, splitting the data into training and test sets (70:30 split), and evaluating five regression models. The top-performing models were identified as multiple linear regression and random forest.  The multiple linear regression model explained 64% of the variation in graduation rates with a MSE of .38, while random forest explained 62% of the variation of graduation rates with a MSE of .39. Further hyperparameter tuning on the random forest model slightly improved its prediction of changes to 62.2% MSE while worstened to .399.
 
 Conclusion
 -----------------------------
