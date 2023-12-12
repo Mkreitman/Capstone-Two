@@ -16,7 +16,11 @@ Exploratory Data Analysis
 
 The exploration began with an examination of Chicago State University's standing among institutions in Illinois. Various visualizations, including skewness, a correlation heat map, and Seaborn Jointplots, were employed to understand the relationships between different variables.
 
+![Distribution of Features](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/distributions.png)
+
 ![Heatmap](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/heatmap.png)
+
+![Heatmap](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/corr_act_grad.png)
 
 Pre-Processing and Modeling
 -----------------------------
@@ -27,6 +31,8 @@ Conclusion
 -----------------------------
 
 The multiple linear regression model emerged as the most effective in predicting graduation rates. Notably, the dummy variable 'WY' exhibited a significant influence on graduation rates.
+
+![Heatmap](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/FeatureImportance.png)
 
 Further Research
 -----------------------------
