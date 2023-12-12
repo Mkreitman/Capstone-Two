@@ -1,4 +1,4 @@
-Institution Graduation Rate Analysis Overview
+Institution Graduation Rate Analysis
 ==============================
 
 Overview
