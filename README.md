@@ -4,7 +4,7 @@ Institution Graduation Rate Analysis
 Overview
 -----------------------------
 
-This project focuses on College Scorecard data provided by the U.S. Department of Education. The purpose it to explore student data to find useful insights on increasing graduation rates. In particular, I'd like to see if there is statistical significance between ACT/SAT scores at admittance and graduation rate after 4 years of enrollment.
+This project aims to provide insights into the admissions test requirements and graduation rates of Chicago State University in comparison to other 4-year institutions within the American education system. The analysis involves merging data from the Integrated Postsecondary Education Data System and Wikipedia to develop a tool capable of explaining 64% of the variation in graduation rates.
 
 Data Wrangling
 -----------------------------
@@ -14,26 +14,26 @@ Merged datasets from the 2015/2016 to 2018/2019 academic years, resulting in a d
 Exploratory Data Analysis
 -----------------------------
 
-Explored Chicago State University's position among institutions in Illinois and identified correlations, visualized through skewness, correlation heat map, and Seaborn Jointplots.
+The exploration began with an examination of Chicago State University's standing among institutions in Illinois. Various visualizations, including skewness, a correlation heat map, and Seaborn Jointplots, were employed to understand the relationships between different variables.
 
 ![Heatmap](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/heatmap.png)
 
 Pre-Processing and Modeling
 -----------------------------
 
-Generated dummy variables, split data 70:30, and tested five regression models. Multiple linear regression and random forest performed best, with a 64% variation explanation. Hyperparameter tuning improved the random forest model slightly.
+The modeling phase involved creating dummy variables, splitting the data into training and test sets (70:30 split), and evaluating five regression models. The top-performing models were identified as multiple linear regression and random forest, both explaining 64% of the variation in graduation rates. Further, hyperparameter tuning was conducted to enhance the performance of the random forest model.
 
 Conclusion
 -----------------------------
 
-Multiple linear regression remains the top-performing model. Dummy variable 'WY' significantly impacts graduation rate. 
+The multiple linear regression model emerged as the most effective in predicting graduation rates. Notably, the dummy variable 'WY' exhibited a significant influence on graduation rates.
 
 Further Research
 -----------------------------
 
-1. Analyze institutions in Wyoming (WY) to understand its impact.
-2. Introduce a public/private institution variable to explore its effect on data distribution.
-3. Address the absence of data on transfer students, as their presence may impact graduation rates.
+1. Analyze Institutions in Wyoming (WY): A deeper investigation into institutions in Wyoming is warranted to understand the peculiar impact of this variable on graduation rates.
+2. Introduce a Public/Private Institution Variable: Consider incorporating a variable indicating whether an institution is public or private to assess its potential impact on data distribution. Public and private institutions may have distinct approaches to dealing with underperforming students, influencing student success outcomes.
+3. Address Data Gaps on Transfer Students: The absence of data on transfer students is acknowledged. Further research should explore the impact of transfer students on graduation rates, addressing issues such as students transferring in as sophomores and the potential bias introduced by their inclusion in the data.
 
 Project Organization
 ------------
