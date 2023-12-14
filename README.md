@@ -47,22 +47,7 @@ Further Research
 2. Introduce a Public/Private Institution Variable: Consider incorporating a variable indicating whether an institution is public or private to assess its potential impact on data distribution. Public and private institutions may have distinct approaches to dealing with underperforming students, influencing student success outcomes.
 3. Address Data Gaps on Transfer Students: The absence of data on transfer students is acknowledged. Further research should explore the impact of transfer students on graduation rates, addressing issues such as students transferring in as sophomores and the potential bias introduced by their inclusion in the data.
 
-Project Organization
+Project Writeup:
 ------------
 
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   └── processed      <- The final, canonical data sets for modeling.
-    │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    └── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-                              generated with `pip freeze > requirements.txt`
+[Final Project PDF](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/Capstone_Final_Report.pdf)
