@@ -24,9 +24,23 @@ The exploration began with an examination of Chicago State University's standing
 
 ![Distribution of Features](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/distributions.png)
 
+Only the admission_rate distribution appears to be skew-left.
+
 ![Heatmap](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/heatmap.png)
 
+Some notable positive strong and medium/strong correlations that appear include the
+act_25th_percentile_score and graduation_rate features (0.76), and territory_or_state_area_sqmi
+and territory_or_state_population features (0.62). The feature act_25th_percentile_score belongs
+to both positive correlations mentioned. Some notable negative medium/strong correlations
+include admission_rate and act_25th_percentile_score features (-0.45), and admission_rate and
+graduation_rate features (-0.35). The feature admission_rate belongs to both negative
+correlations mentioned.
+
 ![Heatmap](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/corr_act_grad.png)
+
+The strongest positive correlation I found in the act_25th_percentile_score and graduation_rate Seaborn Jointplot seems
+intuitive to me, but I wonder if it's a result from bias during the wrangling process by only
+including institutions that are predominately bachelor's and graduate degree granting.
 
 Pre-Processing and Modeling
 -----------------------------
@@ -38,7 +52,7 @@ Conclusion
 
 The multiple linear regression model emerged as the most effective in predicting graduation rates. Notably, the dummy variable 'WY' exhibited a significant influence on graduation rates.
 
-![Heatmap](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/FeatureImportance.png)
+![Feature Importance for Multiple Linear Regression](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/FeatureImportance.png)
 
 Further Research
 -----------------------------
