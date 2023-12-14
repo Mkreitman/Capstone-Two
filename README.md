@@ -17,6 +17,17 @@ Merged datasets from the 2015/2016 to 2018/2019 academic years, resulting in a d
 
 ![Graduating Students](https://github.com/Mkreitman/Capstone-Two/blob/main/reports/figures/graduating_student_frequency.png)
 
+Chicago State University has some concerning statistics within the distributions shown above.
+
+Here are some additional statistics related to CSU:
+
+- It appears as 39th in admissions selectivity of matriculating students for the 2015/2016 academic year.
+1135th in average ACT 25th percentile score for the 2015/2016 academic year.
+- The university ranks 1176th in graduation rate of bachelor degree earning students during the 2018/2019
+academic year.
+- 884th in terms of total bachelor degree earning students graduating during the 2018/2019
+academic year.
+
 Exploratory Data Analysis
 -----------------------------
 
